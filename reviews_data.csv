@@ -1,0 +1,2001 @@
+review_id,product,review,sentiment,sentiment_label,rating
+1,Laptop,Superb quality and great customer service.,positive,1,5
+2,Phone,"Completely useless, returned immediately.",negative,-1,1
+3,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+4,Phone,Superb quality and great customer service.,positive,1,5
+5,Laptop,Superb quality and great customer service.,positive,1,5
+6,Earbuds,"Very bad quality, not worth the price.",negative,-1,1
+7,Laptop,Superb quality and great customer service.,positive,1,5
+8,Phone,"Satisfactory product, as described.",neutral,0,3
+9,Tablet,"Outstanding performance, will buy again.",positive,1,4
+10,Watch,"Defective product, customer service unhelpful.",negative,-1,1
+11,Laptop,"Not satisfied at all, very poor performance.",negative,-1,1
+12,Phone,"Wonderful experience, product is top notch.",positive,1,5
+13,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+14,Laptop,"Great value for money, highly recommend.",positive,1,5
+15,Laptop,"Waste of money, poor quality.",negative,-1,1
+16,Watch,"Normal product, average performance.",neutral,0,2
+17,Phone,"Best purchase I made this year, very satisfied.",positive,1,5
+18,Tablet,Really impressed with the build quality.,positive,1,4
+19,Earbuds,"Average quality, does the job.",neutral,0,2
+20,Phone,"Wonderful experience, product is top notch.",positive,1,5
+21,Earbuds,"Great value for money, highly recommend.",positive,1,5
+22,Laptop,"Best purchase I made this year, very satisfied.",positive,1,5
+23,Watch,"Worst purchase ever, avoid this product.",negative,-1,1
+24,Watch,"This product is absolutely amazing, love it!",positive,1,5
+25,Tablet,Superb quality and great customer service.,positive,1,5
+26,Watch,"Very bad quality, not worth the price.",negative,-1,2
+27,Laptop,"Great value for money, highly recommend.",positive,1,4
+28,Tablet,"Excellent quality, very happy with my purchase.",positive,1,4
+29,Phone,"Very disappointed, does not work as advertised.",negative,-1,2
+30,Watch,"Great value for money, highly recommend.",positive,1,5
+31,Tablet,"Worst purchase ever, avoid this product.",negative,-1,2
+32,Laptop,"Not satisfied at all, very poor performance.",negative,-1,1
+33,Earbuds,"Works fine, but nothing extraordinary.",neutral,0,3
+34,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+35,Laptop,"Worst purchase ever, avoid this product.",negative,-1,1
+36,Laptop,Really impressed with the build quality.,positive,1,4
+37,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+38,Tablet,Really impressed with the build quality.,positive,1,5
+39,Earbuds,"Worst purchase ever, avoid this product.",negative,-1,1
+40,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+41,Watch,"Waste of money, poor quality.",negative,-1,1
+42,Phone,Product stopped working after a few days.,negative,-1,1
+43,Watch,"Product is acceptable, works as expected.",neutral,0,2
+44,Watch,"Best purchase I made this year, very satisfied.",positive,1,5
+45,Laptop,"Average quality, does the job.",neutral,0,4
+46,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+47,Tablet,Superb quality and great customer service.,positive,1,5
+48,Watch,"Worst purchase ever, avoid this product.",negative,-1,2
+49,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,4
+50,Tablet,"Outstanding performance, will buy again.",positive,1,5
+51,Watch,"Decent product, meets basic expectations.",neutral,0,3
+52,Tablet,"Defective product, customer service unhelpful.",negative,-1,1
+53,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+54,Phone,"Wonderful experience, product is top notch.",positive,1,4
+55,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,4
+56,Laptop,"Best purchase I made this year, very satisfied.",positive,1,5
+57,Tablet,"Great value for money, highly recommend.",positive,1,4
+58,Phone,"Normal product, average performance.",neutral,0,3
+59,Tablet,"Horrible experience, never buying again.",negative,-1,2
+60,Tablet,"Normal product, average performance.",neutral,0,3
+61,Watch,"Fantastic product, delivery was fast too.",positive,1,4
+62,Laptop,"Product is acceptable, works as expected.",neutral,0,3
+63,Tablet,Neither impressed nor disappointed.,neutral,0,3
+64,Earbuds,"Great value for money, highly recommend.",positive,1,4
+65,Earbuds,"Product is acceptable, works as expected.",neutral,0,4
+66,Watch,Really impressed with the build quality.,positive,1,5
+67,Laptop,"This product is absolutely amazing, love it!",positive,1,4
+68,Laptop,Really impressed with the build quality.,positive,1,5
+69,Earbuds,Neither impressed nor disappointed.,neutral,0,4
+70,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+71,Watch,"Not satisfied at all, very poor performance.",negative,-1,1
+72,Watch,"This product is absolutely amazing, love it!",positive,1,5
+73,Earbuds,Superb quality and great customer service.,positive,1,5
+74,Earbuds,"Satisfactory product, as described.",neutral,0,4
+75,Phone,Superb quality and great customer service.,positive,1,5
+76,Phone,"Terrible product, broke after one week.",negative,-1,1
+77,Laptop,"Wonderful experience, product is top notch.",positive,1,5
+78,Watch,"Normal product, average performance.",neutral,0,3
+79,Watch,"This product is absolutely amazing, love it!",positive,1,5
+80,Earbuds,Superb quality and great customer service.,positive,1,5
+81,Laptop,"This product is absolutely amazing, love it!",positive,1,4
+82,Watch,"Satisfactory product, as described.",neutral,0,4
+83,Laptop,"This product is absolutely amazing, love it!",positive,1,4
+84,Laptop,"Very disappointed, does not work as advertised.",negative,-1,2
+85,Earbuds,"Defective product, customer service unhelpful.",negative,-1,2
+86,Laptop,"Normal product, average performance.",neutral,0,3
+87,Phone,"Worst purchase ever, avoid this product.",negative,-1,1
+88,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+89,Tablet,"Great value for money, highly recommend.",positive,1,5
+90,Earbuds,"Satisfactory product, as described.",neutral,0,4
+91,Tablet,"Terrible product, broke after one week.",negative,-1,2
+92,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+93,Tablet,"Waste of money, poor quality.",negative,-1,2
+94,Earbuds,"Horrible experience, never buying again.",negative,-1,2
+95,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+96,Laptop,"It is alright, neither good nor bad.",neutral,0,3
+97,Watch,"Horrible experience, never buying again.",negative,-1,2
+98,Laptop,"Okay for the price, not bad.",neutral,0,2
+99,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+100,Phone,Neither impressed nor disappointed.,neutral,0,2
+101,Phone,"Best purchase I made this year, very satisfied.",positive,1,5
+102,Laptop,"Defective product, customer service unhelpful.",negative,-1,1
+103,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+104,Phone,"It is alright, neither good nor bad.",neutral,0,4
+105,Earbuds,"Very disappointed, does not work as advertised.",negative,-1,1
+106,Phone,"Works fine, but nothing extraordinary.",neutral,0,3
+107,Earbuds,"Normal product, average performance.",neutral,0,4
+108,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+109,Earbuds,"Waste of money, poor quality.",negative,-1,1
+110,Earbuds,"Satisfactory product, as described.",neutral,0,3
+111,Laptop,"Worst purchase ever, avoid this product.",negative,-1,1
+112,Tablet,"Product is okay, nothing special.",neutral,0,2
+113,Watch,"Fantastic product, delivery was fast too.",positive,1,5
+114,Laptop,"Waste of money, poor quality.",negative,-1,2
+115,Watch,Really impressed with the build quality.,positive,1,4
+116,Phone,"Very disappointed, does not work as advertised.",negative,-1,2
+117,Watch,"Excellent quality, very happy with my purchase.",positive,1,4
+118,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+119,Watch,"Not satisfied at all, very poor performance.",negative,-1,2
+120,Laptop,"Great value for money, highly recommend.",positive,1,5
+121,Laptop,"Outstanding performance, will buy again.",positive,1,5
+122,Watch,Superb quality and great customer service.,positive,1,5
+123,Laptop,"Completely useless, returned immediately.",negative,-1,1
+124,Laptop,"Terrible product, broke after one week.",negative,-1,2
+125,Watch,"Waste of money, poor quality.",negative,-1,2
+126,Tablet,"Very bad quality, not worth the price.",negative,-1,1
+127,Tablet,"Fantastic product, delivery was fast too.",positive,1,4
+128,Phone,"Decent product, meets basic expectations.",neutral,0,4
+129,Laptop,"Average quality, does the job.",neutral,0,2
+130,Watch,"This product is absolutely amazing, love it!",positive,1,5
+131,Laptop,"Terrible product, broke after one week.",negative,-1,1
+132,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,4
+133,Laptop,"Terrible product, broke after one week.",negative,-1,2
+134,Laptop,"Outstanding performance, will buy again.",positive,1,5
+135,Tablet,Neither impressed nor disappointed.,neutral,0,2
+136,Watch,"Product is okay, nothing special.",neutral,0,3
+137,Laptop,"Waste of money, poor quality.",negative,-1,1
+138,Tablet,"It is alright, neither good nor bad.",neutral,0,3
+139,Phone,"Outstanding performance, will buy again.",positive,1,5
+140,Tablet,"This product is absolutely amazing, love it!",positive,1,4
+141,Tablet,"Excellent quality, very happy with my purchase.",positive,1,5
+142,Tablet,"Very bad quality, not worth the price.",negative,-1,1
+143,Laptop,"Worst purchase ever, avoid this product.",negative,-1,1
+144,Laptop,"Excellent quality, very happy with my purchase.",positive,1,5
+145,Phone,"Very bad quality, not worth the price.",negative,-1,1
+146,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+147,Earbuds,"Product is okay, nothing special.",neutral,0,2
+148,Earbuds,Neither impressed nor disappointed.,neutral,0,4
+149,Phone,"Completely useless, returned immediately.",negative,-1,1
+150,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+151,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,4
+152,Tablet,"Product is acceptable, works as expected.",neutral,0,2
+153,Laptop,"Great value for money, highly recommend.",positive,1,5
+154,Laptop,"Terrible product, broke after one week.",negative,-1,1
+155,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+156,Tablet,"Excellent quality, very happy with my purchase.",positive,1,5
+157,Tablet,"Best purchase I made this year, very satisfied.",positive,1,5
+158,Laptop,"Waste of money, poor quality.",negative,-1,1
+159,Earbuds,"Fantastic product, delivery was fast too.",positive,1,5
+160,Tablet,"Very bad quality, not worth the price.",negative,-1,2
+161,Phone,"Wonderful experience, product is top notch.",positive,1,4
+162,Tablet,"Satisfactory product, as described.",neutral,0,2
+163,Watch,Product stopped working after a few days.,negative,-1,1
+164,Tablet,Product stopped working after a few days.,negative,-1,2
+165,Laptop,"Outstanding performance, will buy again.",positive,1,5
+166,Tablet,"Fantastic product, delivery was fast too.",positive,1,4
+167,Watch,"Great value for money, highly recommend.",positive,1,5
+168,Phone,"Works perfectly, exceeded my expectations.",positive,1,4
+169,Earbuds,"Horrible experience, never buying again.",negative,-1,1
+170,Tablet,"Excellent quality, very happy with my purchase.",positive,1,4
+171,Watch,"Waste of money, poor quality.",negative,-1,1
+172,Watch,"Waste of money, poor quality.",negative,-1,1
+173,Phone,"Best purchase I made this year, very satisfied.",positive,1,5
+174,Laptop,"Wonderful experience, product is top notch.",positive,1,4
+175,Tablet,"Normal product, average performance.",neutral,0,3
+176,Watch,"Outstanding performance, will buy again.",positive,1,5
+177,Phone,"Wonderful experience, product is top notch.",positive,1,4
+178,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+179,Watch,"Fantastic product, delivery was fast too.",positive,1,5
+180,Phone,"Worst purchase ever, avoid this product.",negative,-1,2
+181,Laptop,"Product is okay, nothing special.",neutral,0,4
+182,Laptop,"Normal product, average performance.",neutral,0,3
+183,Watch,Product stopped working after a few days.,negative,-1,1
+184,Watch,"Completely useless, returned immediately.",negative,-1,1
+185,Tablet,"Wonderful experience, product is top notch.",positive,1,5
+186,Phone,"Outstanding performance, will buy again.",positive,1,4
+187,Watch,"Outstanding performance, will buy again.",positive,1,5
+188,Tablet,"Great value for money, highly recommend.",positive,1,4
+189,Tablet,"Wonderful experience, product is top notch.",positive,1,5
+190,Watch,Product stopped working after a few days.,negative,-1,1
+191,Laptop,"This product is absolutely amazing, love it!",positive,1,5
+192,Phone,"Outstanding performance, will buy again.",positive,1,5
+193,Phone,"Wonderful experience, product is top notch.",positive,1,5
+194,Laptop,"It is alright, neither good nor bad.",neutral,0,3
+195,Watch,"Wonderful experience, product is top notch.",positive,1,4
+196,Phone,"Defective product, customer service unhelpful.",negative,-1,1
+197,Watch,"Worst purchase ever, avoid this product.",negative,-1,2
+198,Watch,"Horrible experience, never buying again.",negative,-1,1
+199,Tablet,"Completely useless, returned immediately.",negative,-1,2
+200,Laptop,"It is alright, neither good nor bad.",neutral,0,2
+201,Watch,"Very disappointed, does not work as advertised.",negative,-1,2
+202,Earbuds,"Terrible product, broke after one week.",negative,-1,1
+203,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+204,Phone,"Decent product, meets basic expectations.",neutral,0,3
+205,Tablet,"Okay for the price, not bad.",neutral,0,3
+206,Phone,"Average quality, does the job.",neutral,0,2
+207,Phone,"Excellent quality, very happy with my purchase.",positive,1,4
+208,Laptop,"Terrible product, broke after one week.",negative,-1,1
+209,Phone,"Defective product, customer service unhelpful.",negative,-1,1
+210,Watch,"Very disappointed, does not work as advertised.",negative,-1,2
+211,Phone,"Best purchase I made this year, very satisfied.",positive,1,5
+212,Tablet,"Outstanding performance, will buy again.",positive,1,4
+213,Tablet,Superb quality and great customer service.,positive,1,4
+214,Earbuds,Product stopped working after a few days.,negative,-1,2
+215,Tablet,"It is alright, neither good nor bad.",neutral,0,2
+216,Phone,Really impressed with the build quality.,positive,1,4
+217,Tablet,"Waste of money, poor quality.",negative,-1,1
+218,Laptop,"It is alright, neither good nor bad.",neutral,0,4
+219,Tablet,"Best purchase I made this year, very satisfied.",positive,1,5
+220,Watch,"Completely useless, returned immediately.",negative,-1,1
+221,Laptop,"Works fine, but nothing extraordinary.",neutral,0,4
+222,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,4
+223,Watch,"Not satisfied at all, very poor performance.",negative,-1,2
+224,Phone,"This product is absolutely amazing, love it!",positive,1,4
+225,Phone,"Horrible experience, never buying again.",negative,-1,2
+226,Phone,"Satisfactory product, as described.",neutral,0,2
+227,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+228,Watch,Really impressed with the build quality.,positive,1,4
+229,Watch,Neither impressed nor disappointed.,neutral,0,4
+230,Laptop,"Great value for money, highly recommend.",positive,1,4
+231,Laptop,Product stopped working after a few days.,negative,-1,1
+232,Phone,Really impressed with the build quality.,positive,1,4
+233,Tablet,Product stopped working after a few days.,negative,-1,2
+234,Phone,"Completely useless, returned immediately.",negative,-1,2
+235,Earbuds,"Completely useless, returned immediately.",negative,-1,1
+236,Laptop,"Wonderful experience, product is top notch.",positive,1,5
+237,Watch,"Product is acceptable, works as expected.",neutral,0,2
+238,Laptop,"Best purchase I made this year, very satisfied.",positive,1,4
+239,Watch,"Very disappointed, does not work as advertised.",negative,-1,1
+240,Earbuds,Neither impressed nor disappointed.,neutral,0,4
+241,Earbuds,"Terrible product, broke after one week.",negative,-1,1
+242,Laptop,"Best purchase I made this year, very satisfied.",positive,1,4
+243,Watch,Superb quality and great customer service.,positive,1,4
+244,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+245,Phone,"Average quality, does the job.",neutral,0,4
+246,Phone,"Outstanding performance, will buy again.",positive,1,5
+247,Watch,Superb quality and great customer service.,positive,1,5
+248,Laptop,"This product is absolutely amazing, love it!",positive,1,5
+249,Earbuds,"Product is okay, nothing special.",neutral,0,4
+250,Laptop,Neither impressed nor disappointed.,neutral,0,3
+251,Phone,"Horrible experience, never buying again.",negative,-1,1
+252,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+253,Laptop,"Very bad quality, not worth the price.",negative,-1,1
+254,Tablet,"Defective product, customer service unhelpful.",negative,-1,1
+255,Watch,"Normal product, average performance.",neutral,0,4
+256,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+257,Tablet,"Wonderful experience, product is top notch.",positive,1,5
+258,Phone,"Worst purchase ever, avoid this product.",negative,-1,2
+259,Earbuds,Really impressed with the build quality.,positive,1,5
+260,Watch,"Waste of money, poor quality.",negative,-1,2
+261,Tablet,"Not satisfied at all, very poor performance.",negative,-1,1
+262,Tablet,"This product is absolutely amazing, love it!",positive,1,4
+263,Phone,"This product is absolutely amazing, love it!",positive,1,5
+264,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+265,Laptop,"Works fine, but nothing extraordinary.",neutral,0,2
+266,Watch,"Outstanding performance, will buy again.",positive,1,5
+267,Laptop,"Works fine, but nothing extraordinary.",neutral,0,4
+268,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+269,Earbuds,"Average quality, does the job.",neutral,0,2
+270,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+271,Phone,"Terrible product, broke after one week.",negative,-1,1
+272,Earbuds,"Very bad quality, not worth the price.",negative,-1,1
+273,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,4
+274,Earbuds,"Wonderful experience, product is top notch.",positive,1,4
+275,Tablet,"Okay for the price, not bad.",neutral,0,3
+276,Earbuds,Superb quality and great customer service.,positive,1,4
+277,Earbuds,"Worst purchase ever, avoid this product.",negative,-1,1
+278,Earbuds,"Great value for money, highly recommend.",positive,1,5
+279,Laptop,"Wonderful experience, product is top notch.",positive,1,5
+280,Tablet,"Outstanding performance, will buy again.",positive,1,4
+281,Phone,"Satisfactory product, as described.",neutral,0,3
+282,Laptop,Really impressed with the build quality.,positive,1,5
+283,Watch,"Great value for money, highly recommend.",positive,1,4
+284,Tablet,"Waste of money, poor quality.",negative,-1,2
+285,Tablet,"Average quality, does the job.",neutral,0,3
+286,Watch,"Outstanding performance, will buy again.",positive,1,4
+287,Watch,"Very disappointed, does not work as advertised.",negative,-1,1
+288,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+289,Phone,Product stopped working after a few days.,negative,-1,2
+290,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+291,Tablet,"Very disappointed, does not work as advertised.",negative,-1,1
+292,Earbuds,"Product is okay, nothing special.",neutral,0,2
+293,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+294,Watch,"Fantastic product, delivery was fast too.",positive,1,4
+295,Phone,"Product is okay, nothing special.",neutral,0,4
+296,Laptop,"Average quality, does the job.",neutral,0,2
+297,Phone,"This product is absolutely amazing, love it!",positive,1,5
+298,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+299,Phone,"Product is okay, nothing special.",neutral,0,4
+300,Watch,Product stopped working after a few days.,negative,-1,2
+301,Laptop,"Works fine, but nothing extraordinary.",neutral,0,2
+302,Watch,Product stopped working after a few days.,negative,-1,1
+303,Laptop,"Product is acceptable, works as expected.",neutral,0,2
+304,Earbuds,"Outstanding performance, will buy again.",positive,1,4
+305,Laptop,"This product is absolutely amazing, love it!",positive,1,4
+306,Laptop,"It is alright, neither good nor bad.",neutral,0,2
+307,Laptop,"This product is absolutely amazing, love it!",positive,1,5
+308,Phone,"Very disappointed, does not work as advertised.",negative,-1,2
+309,Phone,Superb quality and great customer service.,positive,1,5
+310,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+311,Laptop,"Very bad quality, not worth the price.",negative,-1,1
+312,Tablet,"Average quality, does the job.",neutral,0,4
+313,Earbuds,"Satisfactory product, as described.",neutral,0,3
+314,Laptop,Neither impressed nor disappointed.,neutral,0,3
+315,Laptop,"Completely useless, returned immediately.",negative,-1,1
+316,Phone,Product stopped working after a few days.,negative,-1,2
+317,Earbuds,"Waste of money, poor quality.",negative,-1,1
+318,Laptop,"Average quality, does the job.",neutral,0,4
+319,Laptop,"Excellent quality, very happy with my purchase.",positive,1,5
+320,Earbuds,"Waste of money, poor quality.",negative,-1,1
+321,Tablet,"It is alright, neither good nor bad.",neutral,0,2
+322,Earbuds,"Terrible product, broke after one week.",negative,-1,1
+323,Earbuds,"Completely useless, returned immediately.",negative,-1,1
+324,Tablet,"Terrible product, broke after one week.",negative,-1,2
+325,Earbuds,"It is alright, neither good nor bad.",neutral,0,3
+326,Laptop,"This product is absolutely amazing, love it!",positive,1,5
+327,Earbuds,"Great value for money, highly recommend.",positive,1,5
+328,Tablet,"Excellent quality, very happy with my purchase.",positive,1,5
+329,Watch,"Very disappointed, does not work as advertised.",negative,-1,1
+330,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+331,Phone,"Completely useless, returned immediately.",negative,-1,2
+332,Laptop,"Fantastic product, delivery was fast too.",positive,1,4
+333,Laptop,"Horrible experience, never buying again.",negative,-1,2
+334,Phone,Superb quality and great customer service.,positive,1,4
+335,Phone,"Works perfectly, exceeded my expectations.",positive,1,5
+336,Earbuds,"Very disappointed, does not work as advertised.",negative,-1,2
+337,Phone,"Waste of money, poor quality.",negative,-1,2
+338,Watch,"Outstanding performance, will buy again.",positive,1,5
+339,Tablet,"Wonderful experience, product is top notch.",positive,1,5
+340,Phone,"Outstanding performance, will buy again.",positive,1,4
+341,Phone,Product stopped working after a few days.,negative,-1,1
+342,Watch,"Wonderful experience, product is top notch.",positive,1,5
+343,Laptop,"Product is okay, nothing special.",neutral,0,4
+344,Laptop,"Not satisfied at all, very poor performance.",negative,-1,1
+345,Earbuds,Really impressed with the build quality.,positive,1,5
+346,Watch,"Worst purchase ever, avoid this product.",negative,-1,2
+347,Tablet,"Product is okay, nothing special.",neutral,0,3
+348,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+349,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+350,Tablet,Superb quality and great customer service.,positive,1,5
+351,Laptop,"Wonderful experience, product is top notch.",positive,1,4
+352,Tablet,"Worst purchase ever, avoid this product.",negative,-1,1
+353,Tablet,"Defective product, customer service unhelpful.",negative,-1,2
+354,Watch,Superb quality and great customer service.,positive,1,5
+355,Watch,"Works perfectly, exceeded my expectations.",positive,1,4
+356,Tablet,"Average quality, does the job.",neutral,0,2
+357,Phone,"Works perfectly, exceeded my expectations.",positive,1,5
+358,Watch,Really impressed with the build quality.,positive,1,4
+359,Earbuds,"Defective product, customer service unhelpful.",negative,-1,2
+360,Earbuds,"Terrible product, broke after one week.",negative,-1,1
+361,Laptop,"Wonderful experience, product is top notch.",positive,1,4
+362,Tablet,"Not satisfied at all, very poor performance.",negative,-1,1
+363,Phone,"It is alright, neither good nor bad.",neutral,0,3
+364,Laptop,"Wonderful experience, product is top notch.",positive,1,5
+365,Tablet,"Very disappointed, does not work as advertised.",negative,-1,2
+366,Watch,"Fantastic product, delivery was fast too.",positive,1,5
+367,Earbuds,"Worst purchase ever, avoid this product.",negative,-1,1
+368,Phone,"Waste of money, poor quality.",negative,-1,1
+369,Earbuds,"Outstanding performance, will buy again.",positive,1,5
+370,Watch,"Wonderful experience, product is top notch.",positive,1,5
+371,Tablet,"Worst purchase ever, avoid this product.",negative,-1,1
+372,Watch,"Fantastic product, delivery was fast too.",positive,1,4
+373,Watch,"Terrible product, broke after one week.",negative,-1,2
+374,Earbuds,"Outstanding performance, will buy again.",positive,1,5
+375,Phone,"Best purchase I made this year, very satisfied.",positive,1,4
+376,Watch,Superb quality and great customer service.,positive,1,5
+377,Earbuds,"Normal product, average performance.",neutral,0,4
+378,Phone,Superb quality and great customer service.,positive,1,5
+379,Tablet,"Worst purchase ever, avoid this product.",negative,-1,2
+380,Tablet,"Excellent quality, very happy with my purchase.",positive,1,5
+381,Laptop,"Horrible experience, never buying again.",negative,-1,2
+382,Earbuds,"Fantastic product, delivery was fast too.",positive,1,5
+383,Phone,Superb quality and great customer service.,positive,1,5
+384,Watch,"Not satisfied at all, very poor performance.",negative,-1,1
+385,Tablet,"Worst purchase ever, avoid this product.",negative,-1,1
+386,Phone,"Outstanding performance, will buy again.",positive,1,4
+387,Earbuds,"Fantastic product, delivery was fast too.",positive,1,5
+388,Laptop,"Horrible experience, never buying again.",negative,-1,2
+389,Tablet,"Terrible product, broke after one week.",negative,-1,1
+390,Phone,"Terrible product, broke after one week.",negative,-1,1
+391,Phone,"Very bad quality, not worth the price.",negative,-1,2
+392,Phone,"Horrible experience, never buying again.",negative,-1,1
+393,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+394,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+395,Earbuds,"Outstanding performance, will buy again.",positive,1,4
+396,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+397,Phone,"Excellent quality, very happy with my purchase.",positive,1,5
+398,Tablet,"Outstanding performance, will buy again.",positive,1,5
+399,Earbuds,Really impressed with the build quality.,positive,1,5
+400,Earbuds,"Worst purchase ever, avoid this product.",negative,-1,1
+401,Phone,"Waste of money, poor quality.",negative,-1,1
+402,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+403,Watch,"Average quality, does the job.",neutral,0,4
+404,Watch,Superb quality and great customer service.,positive,1,4
+405,Earbuds,"Average quality, does the job.",neutral,0,2
+406,Phone,"Works perfectly, exceeded my expectations.",positive,1,4
+407,Phone,"Satisfactory product, as described.",neutral,0,4
+408,Phone,Superb quality and great customer service.,positive,1,4
+409,Laptop,"Works fine, but nothing extraordinary.",neutral,0,3
+410,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+411,Phone,"Outstanding performance, will buy again.",positive,1,5
+412,Watch,"Wonderful experience, product is top notch.",positive,1,4
+413,Tablet,Neither impressed nor disappointed.,neutral,0,3
+414,Tablet,Neither impressed nor disappointed.,neutral,0,4
+415,Phone,"Worst purchase ever, avoid this product.",negative,-1,1
+416,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+417,Tablet,"Terrible product, broke after one week.",negative,-1,1
+418,Laptop,"Terrible product, broke after one week.",negative,-1,2
+419,Watch,"This product is absolutely amazing, love it!",positive,1,4
+420,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+421,Laptop,"Worst purchase ever, avoid this product.",negative,-1,1
+422,Laptop,"Best purchase I made this year, very satisfied.",positive,1,5
+423,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+424,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+425,Tablet,"Great value for money, highly recommend.",positive,1,5
+426,Laptop,"Terrible product, broke after one week.",negative,-1,1
+427,Watch,"Completely useless, returned immediately.",negative,-1,1
+428,Tablet,"Very bad quality, not worth the price.",negative,-1,1
+429,Earbuds,Product stopped working after a few days.,negative,-1,2
+430,Tablet,"Terrible product, broke after one week.",negative,-1,2
+431,Phone,"Fantastic product, delivery was fast too.",positive,1,4
+432,Tablet,Product stopped working after a few days.,negative,-1,1
+433,Laptop,"Product is okay, nothing special.",neutral,0,3
+434,Watch,"Great value for money, highly recommend.",positive,1,5
+435,Watch,"Great value for money, highly recommend.",positive,1,4
+436,Laptop,Superb quality and great customer service.,positive,1,5
+437,Phone,"Great value for money, highly recommend.",positive,1,5
+438,Laptop,"Very disappointed, does not work as advertised.",negative,-1,1
+439,Tablet,"Works perfectly, exceeded my expectations.",positive,1,4
+440,Laptop,"Horrible experience, never buying again.",negative,-1,2
+441,Laptop,Product stopped working after a few days.,negative,-1,1
+442,Phone,"Product is acceptable, works as expected.",neutral,0,2
+443,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+444,Earbuds,"Wonderful experience, product is top notch.",positive,1,4
+445,Earbuds,"Product is acceptable, works as expected.",neutral,0,2
+446,Watch,"Very disappointed, does not work as advertised.",negative,-1,1
+447,Laptop,"Worst purchase ever, avoid this product.",negative,-1,2
+448,Watch,"It is alright, neither good nor bad.",neutral,0,4
+449,Phone,"Works fine, but nothing extraordinary.",neutral,0,3
+450,Earbuds,"Okay for the price, not bad.",neutral,0,3
+451,Laptop,"Terrible product, broke after one week.",negative,-1,2
+452,Phone,"Defective product, customer service unhelpful.",negative,-1,2
+453,Phone,"Works perfectly, exceeded my expectations.",positive,1,5
+454,Laptop,"Worst purchase ever, avoid this product.",negative,-1,2
+455,Phone,"Normal product, average performance.",neutral,0,4
+456,Laptop,"Outstanding performance, will buy again.",positive,1,5
+457,Laptop,"It is alright, neither good nor bad.",neutral,0,2
+458,Tablet,Really impressed with the build quality.,positive,1,5
+459,Watch,"Fantastic product, delivery was fast too.",positive,1,5
+460,Phone,"Worst purchase ever, avoid this product.",negative,-1,1
+461,Phone,"Not satisfied at all, very poor performance.",negative,-1,1
+462,Tablet,"Defective product, customer service unhelpful.",negative,-1,1
+463,Tablet,"Works fine, but nothing extraordinary.",neutral,0,2
+464,Tablet,"Waste of money, poor quality.",negative,-1,1
+465,Earbuds,Really impressed with the build quality.,positive,1,4
+466,Earbuds,"Satisfactory product, as described.",neutral,0,3
+467,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,4
+468,Laptop,"This product is absolutely amazing, love it!",positive,1,4
+469,Phone,"Waste of money, poor quality.",negative,-1,1
+470,Watch,Really impressed with the build quality.,positive,1,4
+471,Laptop,"Fantastic product, delivery was fast too.",positive,1,5
+472,Phone,"This product is absolutely amazing, love it!",positive,1,5
+473,Phone,"Fantastic product, delivery was fast too.",positive,1,4
+474,Tablet,"Excellent quality, very happy with my purchase.",positive,1,5
+475,Tablet,"Completely useless, returned immediately.",negative,-1,2
+476,Laptop,Neither impressed nor disappointed.,neutral,0,3
+477,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+478,Phone,"Okay for the price, not bad.",neutral,0,2
+479,Tablet,"Terrible product, broke after one week.",negative,-1,1
+480,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+481,Tablet,Superb quality and great customer service.,positive,1,5
+482,Phone,"Product is okay, nothing special.",neutral,0,4
+483,Laptop,Superb quality and great customer service.,positive,1,5
+484,Watch,"Terrible product, broke after one week.",negative,-1,2
+485,Tablet,"Very disappointed, does not work as advertised.",negative,-1,1
+486,Phone,"Terrible product, broke after one week.",negative,-1,2
+487,Watch,"Fantastic product, delivery was fast too.",positive,1,4
+488,Watch,"Horrible experience, never buying again.",negative,-1,1
+489,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+490,Watch,"Product is acceptable, works as expected.",neutral,0,2
+491,Phone,"Excellent quality, very happy with my purchase.",positive,1,5
+492,Phone,"Best purchase I made this year, very satisfied.",positive,1,4
+493,Tablet,"Average quality, does the job.",neutral,0,3
+494,Tablet,"Okay for the price, not bad.",neutral,0,3
+495,Tablet,"Best purchase I made this year, very satisfied.",positive,1,4
+496,Watch,"Best purchase I made this year, very satisfied.",positive,1,5
+497,Watch,"Worst purchase ever, avoid this product.",negative,-1,2
+498,Earbuds,"Outstanding performance, will buy again.",positive,1,4
+499,Tablet,"This product is absolutely amazing, love it!",positive,1,4
+500,Laptop,"Worst purchase ever, avoid this product.",negative,-1,2
+501,Earbuds,Superb quality and great customer service.,positive,1,5
+502,Laptop,"Worst purchase ever, avoid this product.",negative,-1,1
+503,Watch,"It is alright, neither good nor bad.",neutral,0,4
+504,Earbuds,"Satisfactory product, as described.",neutral,0,4
+505,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+506,Phone,"Normal product, average performance.",neutral,0,3
+507,Watch,"Terrible product, broke after one week.",negative,-1,1
+508,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+509,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+510,Watch,"Very disappointed, does not work as advertised.",negative,-1,1
+511,Earbuds,"Works fine, but nothing extraordinary.",neutral,0,4
+512,Phone,"Wonderful experience, product is top notch.",positive,1,4
+513,Earbuds,"Decent product, meets basic expectations.",neutral,0,2
+514,Watch,"Horrible experience, never buying again.",negative,-1,1
+515,Watch,"Very bad quality, not worth the price.",negative,-1,1
+516,Earbuds,"Not satisfied at all, very poor performance.",negative,-1,1
+517,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+518,Earbuds,"Satisfactory product, as described.",neutral,0,3
+519,Tablet,"Terrible product, broke after one week.",negative,-1,2
+520,Watch,"Okay for the price, not bad.",neutral,0,2
+521,Watch,"Normal product, average performance.",neutral,0,4
+522,Tablet,"Terrible product, broke after one week.",negative,-1,1
+523,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+524,Phone,Superb quality and great customer service.,positive,1,5
+525,Earbuds,"Not satisfied at all, very poor performance.",negative,-1,1
+526,Earbuds,"Fantastic product, delivery was fast too.",positive,1,4
+527,Tablet,"Horrible experience, never buying again.",negative,-1,1
+528,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+529,Earbuds,"Fantastic product, delivery was fast too.",positive,1,5
+530,Watch,"Works fine, but nothing extraordinary.",neutral,0,3
+531,Laptop,Neither impressed nor disappointed.,neutral,0,4
+532,Watch,"This product is absolutely amazing, love it!",positive,1,5
+533,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+534,Phone,"Normal product, average performance.",neutral,0,3
+535,Earbuds,"Fantastic product, delivery was fast too.",positive,1,5
+536,Watch,Really impressed with the build quality.,positive,1,4
+537,Earbuds,Superb quality and great customer service.,positive,1,5
+538,Tablet,Really impressed with the build quality.,positive,1,5
+539,Phone,"Wonderful experience, product is top notch.",positive,1,5
+540,Earbuds,"Product is acceptable, works as expected.",neutral,0,3
+541,Tablet,"Wonderful experience, product is top notch.",positive,1,5
+542,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+543,Watch,"This product is absolutely amazing, love it!",positive,1,4
+544,Watch,"Great value for money, highly recommend.",positive,1,4
+545,Watch,Product stopped working after a few days.,negative,-1,2
+546,Watch,"It is alright, neither good nor bad.",neutral,0,2
+547,Laptop,"Completely useless, returned immediately.",negative,-1,2
+548,Tablet,"Very bad quality, not worth the price.",negative,-1,1
+549,Tablet,Superb quality and great customer service.,positive,1,5
+550,Watch,"Works fine, but nothing extraordinary.",neutral,0,2
+551,Laptop,"Wonderful experience, product is top notch.",positive,1,4
+552,Watch,"Great value for money, highly recommend.",positive,1,5
+553,Laptop,"Great value for money, highly recommend.",positive,1,5
+554,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+555,Phone,"Very disappointed, does not work as advertised.",negative,-1,1
+556,Phone,Really impressed with the build quality.,positive,1,5
+557,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+558,Watch,Superb quality and great customer service.,positive,1,5
+559,Tablet,"Best purchase I made this year, very satisfied.",positive,1,5
+560,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+561,Phone,"Waste of money, poor quality.",negative,-1,1
+562,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+563,Earbuds,"Outstanding performance, will buy again.",positive,1,5
+564,Watch,"This product is absolutely amazing, love it!",positive,1,4
+565,Phone,"Wonderful experience, product is top notch.",positive,1,5
+566,Earbuds,"Terrible product, broke after one week.",negative,-1,1
+567,Phone,Superb quality and great customer service.,positive,1,4
+568,Laptop,Product stopped working after a few days.,negative,-1,2
+569,Phone,Product stopped working after a few days.,negative,-1,1
+570,Watch,"Very bad quality, not worth the price.",negative,-1,2
+571,Tablet,"Average quality, does the job.",neutral,0,4
+572,Phone,"Wonderful experience, product is top notch.",positive,1,4
+573,Tablet,"Wonderful experience, product is top notch.",positive,1,4
+574,Laptop,"Wonderful experience, product is top notch.",positive,1,5
+575,Earbuds,"Terrible product, broke after one week.",negative,-1,1
+576,Earbuds,"Outstanding performance, will buy again.",positive,1,5
+577,Tablet,"Best purchase I made this year, very satisfied.",positive,1,5
+578,Earbuds,"Outstanding performance, will buy again.",positive,1,5
+579,Phone,"Waste of money, poor quality.",negative,-1,1
+580,Tablet,"Average quality, does the job.",neutral,0,4
+581,Watch,"Excellent quality, very happy with my purchase.",positive,1,4
+582,Phone,"Horrible experience, never buying again.",negative,-1,2
+583,Phone,"Average quality, does the job.",neutral,0,2
+584,Phone,"Completely useless, returned immediately.",negative,-1,1
+585,Watch,Superb quality and great customer service.,positive,1,5
+586,Laptop,"Excellent quality, very happy with my purchase.",positive,1,5
+587,Earbuds,"Okay for the price, not bad.",neutral,0,4
+588,Tablet,"Best purchase I made this year, very satisfied.",positive,1,4
+589,Laptop,Superb quality and great customer service.,positive,1,4
+590,Tablet,"Very bad quality, not worth the price.",negative,-1,2
+591,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+592,Watch,"Defective product, customer service unhelpful.",negative,-1,1
+593,Phone,"Average quality, does the job.",neutral,0,3
+594,Phone,"Wonderful experience, product is top notch.",positive,1,5
+595,Watch,"Normal product, average performance.",neutral,0,4
+596,Laptop,"Excellent quality, very happy with my purchase.",positive,1,5
+597,Laptop,"Decent product, meets basic expectations.",neutral,0,4
+598,Tablet,"Great value for money, highly recommend.",positive,1,5
+599,Watch,"This product is absolutely amazing, love it!",positive,1,5
+600,Laptop,"Outstanding performance, will buy again.",positive,1,4
+601,Watch,Superb quality and great customer service.,positive,1,5
+602,Earbuds,Really impressed with the build quality.,positive,1,5
+603,Phone,"Not satisfied at all, very poor performance.",negative,-1,2
+604,Phone,"Great value for money, highly recommend.",positive,1,5
+605,Phone,"Terrible product, broke after one week.",negative,-1,2
+606,Watch,Superb quality and great customer service.,positive,1,4
+607,Watch,"Great value for money, highly recommend.",positive,1,4
+608,Tablet,Product stopped working after a few days.,negative,-1,2
+609,Phone,"This product is absolutely amazing, love it!",positive,1,5
+610,Tablet,Neither impressed nor disappointed.,neutral,0,4
+611,Phone,Really impressed with the build quality.,positive,1,5
+612,Tablet,"Defective product, customer service unhelpful.",negative,-1,2
+613,Tablet,Product stopped working after a few days.,negative,-1,1
+614,Earbuds,"Fantastic product, delivery was fast too.",positive,1,5
+615,Tablet,"Okay for the price, not bad.",neutral,0,3
+616,Watch,"Excellent quality, very happy with my purchase.",positive,1,4
+617,Tablet,"Great value for money, highly recommend.",positive,1,5
+618,Phone,Superb quality and great customer service.,positive,1,4
+619,Tablet,"Satisfactory product, as described.",neutral,0,2
+620,Laptop,"Defective product, customer service unhelpful.",negative,-1,1
+621,Phone,Really impressed with the build quality.,positive,1,5
+622,Laptop,"This product is absolutely amazing, love it!",positive,1,5
+623,Phone,"Okay for the price, not bad.",neutral,0,2
+624,Watch,"Outstanding performance, will buy again.",positive,1,5
+625,Watch,"Completely useless, returned immediately.",negative,-1,1
+626,Watch,"Decent product, meets basic expectations.",neutral,0,3
+627,Laptop,"Terrible product, broke after one week.",negative,-1,1
+628,Earbuds,"Wonderful experience, product is top notch.",positive,1,4
+629,Phone,"Very disappointed, does not work as advertised.",negative,-1,1
+630,Watch,"Worst purchase ever, avoid this product.",negative,-1,2
+631,Phone,"Decent product, meets basic expectations.",neutral,0,3
+632,Laptop,Superb quality and great customer service.,positive,1,4
+633,Earbuds,"Not satisfied at all, very poor performance.",negative,-1,2
+634,Laptop,Product stopped working after a few days.,negative,-1,1
+635,Phone,Really impressed with the build quality.,positive,1,4
+636,Earbuds,Really impressed with the build quality.,positive,1,5
+637,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+638,Laptop,Neither impressed nor disappointed.,neutral,0,2
+639,Watch,Really impressed with the build quality.,positive,1,4
+640,Phone,"Very disappointed, does not work as advertised.",negative,-1,1
+641,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+642,Tablet,"Outstanding performance, will buy again.",positive,1,5
+643,Laptop,"Excellent quality, very happy with my purchase.",positive,1,5
+644,Phone,"Outstanding performance, will buy again.",positive,1,5
+645,Phone,"Average quality, does the job.",neutral,0,2
+646,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+647,Phone,"Okay for the price, not bad.",neutral,0,4
+648,Watch,"Worst purchase ever, avoid this product.",negative,-1,2
+649,Laptop,"Terrible product, broke after one week.",negative,-1,1
+650,Watch,"Decent product, meets basic expectations.",neutral,0,2
+651,Phone,"Product is okay, nothing special.",neutral,0,4
+652,Laptop,Really impressed with the build quality.,positive,1,5
+653,Phone,Really impressed with the build quality.,positive,1,5
+654,Laptop,"It is alright, neither good nor bad.",neutral,0,2
+655,Phone,"Very bad quality, not worth the price.",negative,-1,2
+656,Watch,"Outstanding performance, will buy again.",positive,1,5
+657,Watch,"Product is acceptable, works as expected.",neutral,0,2
+658,Phone,"Best purchase I made this year, very satisfied.",positive,1,5
+659,Laptop,"Outstanding performance, will buy again.",positive,1,5
+660,Tablet,"Very disappointed, does not work as advertised.",negative,-1,2
+661,Watch,"Normal product, average performance.",neutral,0,3
+662,Watch,"This product is absolutely amazing, love it!",positive,1,5
+663,Tablet,"Worst purchase ever, avoid this product.",negative,-1,1
+664,Phone,Superb quality and great customer service.,positive,1,5
+665,Laptop,"Satisfactory product, as described.",neutral,0,4
+666,Phone,"Best purchase I made this year, very satisfied.",positive,1,5
+667,Earbuds,"Very disappointed, does not work as advertised.",negative,-1,1
+668,Watch,"Outstanding performance, will buy again.",positive,1,4
+669,Earbuds,"Great value for money, highly recommend.",positive,1,5
+670,Watch,"Great value for money, highly recommend.",positive,1,4
+671,Watch,"This product is absolutely amazing, love it!",positive,1,4
+672,Earbuds,"Terrible product, broke after one week.",negative,-1,2
+673,Earbuds,"Terrible product, broke after one week.",negative,-1,1
+674,Phone,Superb quality and great customer service.,positive,1,4
+675,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+676,Phone,"It is alright, neither good nor bad.",neutral,0,3
+677,Phone,"Horrible experience, never buying again.",negative,-1,2
+678,Phone,"Completely useless, returned immediately.",negative,-1,1
+679,Watch,"This product is absolutely amazing, love it!",positive,1,5
+680,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+681,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+682,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+683,Earbuds,"Product is okay, nothing special.",neutral,0,2
+684,Watch,Really impressed with the build quality.,positive,1,4
+685,Laptop,"Best purchase I made this year, very satisfied.",positive,1,4
+686,Laptop,"It is alright, neither good nor bad.",neutral,0,4
+687,Earbuds,"It is alright, neither good nor bad.",neutral,0,3
+688,Watch,"Waste of money, poor quality.",negative,-1,1
+689,Watch,"Okay for the price, not bad.",neutral,0,3
+690,Phone,"Outstanding performance, will buy again.",positive,1,4
+691,Tablet,"Works fine, but nothing extraordinary.",neutral,0,3
+692,Earbuds,"Very bad quality, not worth the price.",negative,-1,1
+693,Tablet,Product stopped working after a few days.,negative,-1,1
+694,Tablet,"Product is okay, nothing special.",neutral,0,2
+695,Earbuds,"Fantastic product, delivery was fast too.",positive,1,5
+696,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+697,Earbuds,Really impressed with the build quality.,positive,1,5
+698,Tablet,"Very disappointed, does not work as advertised.",negative,-1,1
+699,Watch,"Okay for the price, not bad.",neutral,0,2
+700,Laptop,Really impressed with the build quality.,positive,1,5
+701,Earbuds,"Works fine, but nothing extraordinary.",neutral,0,3
+702,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+703,Watch,"Waste of money, poor quality.",negative,-1,1
+704,Laptop,Product stopped working after a few days.,negative,-1,1
+705,Laptop,"Product is acceptable, works as expected.",neutral,0,2
+706,Watch,"Not satisfied at all, very poor performance.",negative,-1,1
+707,Phone,"Best purchase I made this year, very satisfied.",positive,1,4
+708,Earbuds,"Great value for money, highly recommend.",positive,1,4
+709,Earbuds,"Fantastic product, delivery was fast too.",positive,1,5
+710,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+711,Watch,Product stopped working after a few days.,negative,-1,1
+712,Tablet,"Worst purchase ever, avoid this product.",negative,-1,1
+713,Tablet,"This product is absolutely amazing, love it!",positive,1,4
+714,Laptop,"Excellent quality, very happy with my purchase.",positive,1,5
+715,Earbuds,"Very disappointed, does not work as advertised.",negative,-1,1
+716,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+717,Laptop,Really impressed with the build quality.,positive,1,5
+718,Watch,"Satisfactory product, as described.",neutral,0,2
+719,Tablet,"Satisfactory product, as described.",neutral,0,2
+720,Earbuds,"Not satisfied at all, very poor performance.",negative,-1,1
+721,Tablet,Really impressed with the build quality.,positive,1,5
+722,Watch,"Very bad quality, not worth the price.",negative,-1,1
+723,Tablet,"Horrible experience, never buying again.",negative,-1,1
+724,Earbuds,Superb quality and great customer service.,positive,1,5
+725,Laptop,"This product is absolutely amazing, love it!",positive,1,5
+726,Earbuds,"Terrible product, broke after one week.",negative,-1,1
+727,Laptop,"Product is okay, nothing special.",neutral,0,3
+728,Phone,"Product is acceptable, works as expected.",neutral,0,2
+729,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,4
+730,Earbuds,"Product is acceptable, works as expected.",neutral,0,2
+731,Watch,"Very disappointed, does not work as advertised.",negative,-1,2
+732,Tablet,"Product is acceptable, works as expected.",neutral,0,2
+733,Laptop,"This product is absolutely amazing, love it!",positive,1,5
+734,Laptop,"Decent product, meets basic expectations.",neutral,0,3
+735,Watch,Neither impressed nor disappointed.,neutral,0,3
+736,Watch,"Normal product, average performance.",neutral,0,2
+737,Tablet,"Not satisfied at all, very poor performance.",negative,-1,1
+738,Tablet,"Worst purchase ever, avoid this product.",negative,-1,1
+739,Earbuds,"It is alright, neither good nor bad.",neutral,0,4
+740,Phone,"Best purchase I made this year, very satisfied.",positive,1,5
+741,Tablet,"Horrible experience, never buying again.",negative,-1,1
+742,Watch,"Very bad quality, not worth the price.",negative,-1,1
+743,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+744,Laptop,"Wonderful experience, product is top notch.",positive,1,4
+745,Phone,"Excellent quality, very happy with my purchase.",positive,1,5
+746,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+747,Laptop,"Not satisfied at all, very poor performance.",negative,-1,1
+748,Laptop,"Product is acceptable, works as expected.",neutral,0,3
+749,Phone,"Great value for money, highly recommend.",positive,1,5
+750,Earbuds,"Completely useless, returned immediately.",negative,-1,1
+751,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+752,Earbuds,"Fantastic product, delivery was fast too.",positive,1,4
+753,Tablet,"Very bad quality, not worth the price.",negative,-1,2
+754,Laptop,Superb quality and great customer service.,positive,1,4
+755,Tablet,"Decent product, meets basic expectations.",neutral,0,2
+756,Watch,"Works perfectly, exceeded my expectations.",positive,1,4
+757,Tablet,"Very bad quality, not worth the price.",negative,-1,2
+758,Earbuds,"This product is absolutely amazing, love it!",positive,1,4
+759,Tablet,"Product is okay, nothing special.",neutral,0,2
+760,Watch,"Product is acceptable, works as expected.",neutral,0,2
+761,Watch,"Horrible experience, never buying again.",negative,-1,1
+762,Watch,"Horrible experience, never buying again.",negative,-1,1
+763,Earbuds,"Very disappointed, does not work as advertised.",negative,-1,2
+764,Watch,Neither impressed nor disappointed.,neutral,0,4
+765,Laptop,"Outstanding performance, will buy again.",positive,1,5
+766,Watch,"Great value for money, highly recommend.",positive,1,5
+767,Tablet,"Average quality, does the job.",neutral,0,4
+768,Tablet,"Completely useless, returned immediately.",negative,-1,1
+769,Tablet,"Works perfectly, exceeded my expectations.",positive,1,4
+770,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+771,Tablet,"Worst purchase ever, avoid this product.",negative,-1,1
+772,Earbuds,"Product is okay, nothing special.",neutral,0,2
+773,Earbuds,Superb quality and great customer service.,positive,1,5
+774,Watch,"Best purchase I made this year, very satisfied.",positive,1,5
+775,Laptop,"Very disappointed, does not work as advertised.",negative,-1,2
+776,Watch,"Outstanding performance, will buy again.",positive,1,5
+777,Watch,Really impressed with the build quality.,positive,1,4
+778,Earbuds,Superb quality and great customer service.,positive,1,5
+779,Earbuds,"Horrible experience, never buying again.",negative,-1,1
+780,Tablet,"Very bad quality, not worth the price.",negative,-1,2
+781,Tablet,"Not satisfied at all, very poor performance.",negative,-1,2
+782,Watch,"Average quality, does the job.",neutral,0,2
+783,Phone,"Works fine, but nothing extraordinary.",neutral,0,3
+784,Phone,Superb quality and great customer service.,positive,1,5
+785,Tablet,"Horrible experience, never buying again.",negative,-1,1
+786,Phone,"Product is acceptable, works as expected.",neutral,0,4
+787,Tablet,"Wonderful experience, product is top notch.",positive,1,5
+788,Earbuds,Really impressed with the build quality.,positive,1,5
+789,Watch,"Great value for money, highly recommend.",positive,1,5
+790,Laptop,"Terrible product, broke after one week.",negative,-1,1
+791,Watch,"Fantastic product, delivery was fast too.",positive,1,5
+792,Tablet,Really impressed with the build quality.,positive,1,4
+793,Tablet,Product stopped working after a few days.,negative,-1,1
+794,Watch,"Terrible product, broke after one week.",negative,-1,2
+795,Tablet,"Okay for the price, not bad.",neutral,0,3
+796,Phone,"Very bad quality, not worth the price.",negative,-1,1
+797,Phone,"Great value for money, highly recommend.",positive,1,5
+798,Tablet,"Excellent quality, very happy with my purchase.",positive,1,4
+799,Tablet,"Outstanding performance, will buy again.",positive,1,5
+800,Phone,"Product is okay, nothing special.",neutral,0,3
+801,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+802,Tablet,"Outstanding performance, will buy again.",positive,1,5
+803,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+804,Laptop,"Wonderful experience, product is top notch.",positive,1,5
+805,Phone,"Excellent quality, very happy with my purchase.",positive,1,5
+806,Watch,"Average quality, does the job.",neutral,0,4
+807,Laptop,Really impressed with the build quality.,positive,1,4
+808,Tablet,"Worst purchase ever, avoid this product.",negative,-1,1
+809,Tablet,"Very disappointed, does not work as advertised.",negative,-1,1
+810,Watch,"Fantastic product, delivery was fast too.",positive,1,4
+811,Tablet,"Great value for money, highly recommend.",positive,1,5
+812,Earbuds,"Defective product, customer service unhelpful.",negative,-1,1
+813,Watch,"Worst purchase ever, avoid this product.",negative,-1,1
+814,Laptop,"Product is okay, nothing special.",neutral,0,4
+815,Watch,"Very bad quality, not worth the price.",negative,-1,2
+816,Phone,"Satisfactory product, as described.",neutral,0,3
+817,Watch,"This product is absolutely amazing, love it!",positive,1,4
+818,Tablet,"Product is acceptable, works as expected.",neutral,0,2
+819,Tablet,"Excellent quality, very happy with my purchase.",positive,1,4
+820,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+821,Earbuds,"Okay for the price, not bad.",neutral,0,3
+822,Earbuds,"Worst purchase ever, avoid this product.",negative,-1,1
+823,Laptop,"Horrible experience, never buying again.",negative,-1,1
+824,Earbuds,"Waste of money, poor quality.",negative,-1,2
+825,Laptop,"Works fine, but nothing extraordinary.",neutral,0,2
+826,Earbuds,"Not satisfied at all, very poor performance.",negative,-1,1
+827,Laptop,"Excellent quality, very happy with my purchase.",positive,1,5
+828,Watch,"Satisfactory product, as described.",neutral,0,2
+829,Watch,"This product is absolutely amazing, love it!",positive,1,4
+830,Tablet,Really impressed with the build quality.,positive,1,5
+831,Laptop,Really impressed with the build quality.,positive,1,5
+832,Phone,"Excellent quality, very happy with my purchase.",positive,1,5
+833,Tablet,"Great value for money, highly recommend.",positive,1,4
+834,Watch,"Very bad quality, not worth the price.",negative,-1,1
+835,Laptop,Neither impressed nor disappointed.,neutral,0,2
+836,Earbuds,"This product is absolutely amazing, love it!",positive,1,4
+837,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+838,Watch,Product stopped working after a few days.,negative,-1,1
+839,Tablet,"Wonderful experience, product is top notch.",positive,1,4
+840,Laptop,"Outstanding performance, will buy again.",positive,1,5
+841,Phone,Really impressed with the build quality.,positive,1,5
+842,Laptop,"Terrible product, broke after one week.",negative,-1,1
+843,Earbuds,"Fantastic product, delivery was fast too.",positive,1,4
+844,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+845,Laptop,"Wonderful experience, product is top notch.",positive,1,5
+846,Watch,"Not satisfied at all, very poor performance.",negative,-1,2
+847,Tablet,"Wonderful experience, product is top notch.",positive,1,4
+848,Watch,"Average quality, does the job.",neutral,0,3
+849,Laptop,"Outstanding performance, will buy again.",positive,1,5
+850,Tablet,Neither impressed nor disappointed.,neutral,0,2
+851,Watch,"Excellent quality, very happy with my purchase.",positive,1,4
+852,Earbuds,"Horrible experience, never buying again.",negative,-1,2
+853,Earbuds,"Completely useless, returned immediately.",negative,-1,2
+854,Laptop,"Average quality, does the job.",neutral,0,2
+855,Tablet,Product stopped working after a few days.,negative,-1,2
+856,Phone,"Best purchase I made this year, very satisfied.",positive,1,5
+857,Tablet,"Works fine, but nothing extraordinary.",neutral,0,2
+858,Earbuds,Neither impressed nor disappointed.,neutral,0,2
+859,Watch,"Waste of money, poor quality.",negative,-1,1
+860,Phone,"Outstanding performance, will buy again.",positive,1,5
+861,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+862,Phone,"Great value for money, highly recommend.",positive,1,5
+863,Laptop,"Great value for money, highly recommend.",positive,1,4
+864,Phone,"Waste of money, poor quality.",negative,-1,2
+865,Laptop,"Defective product, customer service unhelpful.",negative,-1,1
+866,Laptop,"Very disappointed, does not work as advertised.",negative,-1,2
+867,Phone,"Great value for money, highly recommend.",positive,1,5
+868,Phone,"Normal product, average performance.",neutral,0,4
+869,Laptop,"Defective product, customer service unhelpful.",negative,-1,2
+870,Earbuds,"Completely useless, returned immediately.",negative,-1,1
+871,Phone,"This product is absolutely amazing, love it!",positive,1,5
+872,Tablet,"Defective product, customer service unhelpful.",negative,-1,1
+873,Watch,"It is alright, neither good nor bad.",neutral,0,4
+874,Laptop,"Best purchase I made this year, very satisfied.",positive,1,5
+875,Laptop,"Okay for the price, not bad.",neutral,0,2
+876,Watch,"Completely useless, returned immediately.",negative,-1,1
+877,Earbuds,Product stopped working after a few days.,negative,-1,1
+878,Watch,Neither impressed nor disappointed.,neutral,0,4
+879,Phone,"Defective product, customer service unhelpful.",negative,-1,1
+880,Watch,Really impressed with the build quality.,positive,1,5
+881,Laptop,"Okay for the price, not bad.",neutral,0,4
+882,Watch,"Terrible product, broke after one week.",negative,-1,1
+883,Tablet,"Outstanding performance, will buy again.",positive,1,4
+884,Phone,Superb quality and great customer service.,positive,1,5
+885,Watch,"Normal product, average performance.",neutral,0,3
+886,Laptop,"Very disappointed, does not work as advertised.",negative,-1,1
+887,Phone,"Defective product, customer service unhelpful.",negative,-1,2
+888,Laptop,"Excellent quality, very happy with my purchase.",positive,1,4
+889,Earbuds,"This product is absolutely amazing, love it!",positive,1,4
+890,Tablet,"Very disappointed, does not work as advertised.",negative,-1,1
+891,Earbuds,"Outstanding performance, will buy again.",positive,1,5
+892,Tablet,"Outstanding performance, will buy again.",positive,1,4
+893,Watch,"Completely useless, returned immediately.",negative,-1,1
+894,Phone,"Defective product, customer service unhelpful.",negative,-1,1
+895,Watch,Really impressed with the build quality.,positive,1,5
+896,Tablet,"Excellent quality, very happy with my purchase.",positive,1,4
+897,Tablet,"Best purchase I made this year, very satisfied.",positive,1,5
+898,Tablet,"Waste of money, poor quality.",negative,-1,1
+899,Laptop,"Best purchase I made this year, very satisfied.",positive,1,4
+900,Phone,"Completely useless, returned immediately.",negative,-1,1
+901,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+902,Watch,"Very bad quality, not worth the price.",negative,-1,1
+903,Earbuds,"Completely useless, returned immediately.",negative,-1,1
+904,Tablet,"Horrible experience, never buying again.",negative,-1,2
+905,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+906,Tablet,"Not satisfied at all, very poor performance.",negative,-1,1
+907,Watch,"Fantastic product, delivery was fast too.",positive,1,4
+908,Earbuds,"Great value for money, highly recommend.",positive,1,5
+909,Laptop,"Excellent quality, very happy with my purchase.",positive,1,4
+910,Phone,Product stopped working after a few days.,negative,-1,1
+911,Laptop,Superb quality and great customer service.,positive,1,5
+912,Watch,"Very bad quality, not worth the price.",negative,-1,1
+913,Tablet,"Wonderful experience, product is top notch.",positive,1,4
+914,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+915,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+916,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+917,Watch,"Horrible experience, never buying again.",negative,-1,2
+918,Phone,"Wonderful experience, product is top notch.",positive,1,5
+919,Phone,Neither impressed nor disappointed.,neutral,0,3
+920,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+921,Earbuds,Really impressed with the build quality.,positive,1,5
+922,Laptop,"Product is okay, nothing special.",neutral,0,3
+923,Phone,Superb quality and great customer service.,positive,1,4
+924,Phone,"Completely useless, returned immediately.",negative,-1,1
+925,Phone,Superb quality and great customer service.,positive,1,5
+926,Earbuds,"Great value for money, highly recommend.",positive,1,5
+927,Watch,"Product is okay, nothing special.",neutral,0,4
+928,Tablet,"Works fine, but nothing extraordinary.",neutral,0,3
+929,Earbuds,"Fantastic product, delivery was fast too.",positive,1,4
+930,Phone,"Best purchase I made this year, very satisfied.",positive,1,4
+931,Earbuds,"Works fine, but nothing extraordinary.",neutral,0,3
+932,Laptop,"Satisfactory product, as described.",neutral,0,2
+933,Phone,"Great value for money, highly recommend.",positive,1,5
+934,Laptop,"Excellent quality, very happy with my purchase.",positive,1,5
+935,Phone,Really impressed with the build quality.,positive,1,4
+936,Earbuds,Really impressed with the build quality.,positive,1,4
+937,Watch,"Waste of money, poor quality.",negative,-1,1
+938,Tablet,"Best purchase I made this year, very satisfied.",positive,1,4
+939,Laptop,"Average quality, does the job.",neutral,0,3
+940,Earbuds,"Waste of money, poor quality.",negative,-1,1
+941,Watch,"Very bad quality, not worth the price.",negative,-1,2
+942,Earbuds,"Horrible experience, never buying again.",negative,-1,1
+943,Laptop,"This product is absolutely amazing, love it!",positive,1,4
+944,Tablet,"Excellent quality, very happy with my purchase.",positive,1,5
+945,Earbuds,"Worst purchase ever, avoid this product.",negative,-1,1
+946,Phone,"Very bad quality, not worth the price.",negative,-1,1
+947,Watch,"Best purchase I made this year, very satisfied.",positive,1,5
+948,Earbuds,Really impressed with the build quality.,positive,1,5
+949,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+950,Phone,"Excellent quality, very happy with my purchase.",positive,1,4
+951,Tablet,"Great value for money, highly recommend.",positive,1,5
+952,Tablet,"Defective product, customer service unhelpful.",negative,-1,1
+953,Phone,Neither impressed nor disappointed.,neutral,0,2
+954,Watch,"This product is absolutely amazing, love it!",positive,1,4
+955,Earbuds,"Product is okay, nothing special.",neutral,0,3
+956,Phone,"Very bad quality, not worth the price.",negative,-1,1
+957,Laptop,"It is alright, neither good nor bad.",neutral,0,3
+958,Watch,"Not satisfied at all, very poor performance.",negative,-1,1
+959,Tablet,"Works fine, but nothing extraordinary.",neutral,0,3
+960,Phone,"Outstanding performance, will buy again.",positive,1,5
+961,Tablet,Really impressed with the build quality.,positive,1,5
+962,Watch,"Great value for money, highly recommend.",positive,1,4
+963,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+964,Phone,"Excellent quality, very happy with my purchase.",positive,1,4
+965,Watch,"Waste of money, poor quality.",negative,-1,2
+966,Laptop,"Outstanding performance, will buy again.",positive,1,5
+967,Phone,"Defective product, customer service unhelpful.",negative,-1,2
+968,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+969,Phone,Superb quality and great customer service.,positive,1,4
+970,Watch,"Best purchase I made this year, very satisfied.",positive,1,5
+971,Phone,"Works perfectly, exceeded my expectations.",positive,1,4
+972,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+973,Laptop,"This product is absolutely amazing, love it!",positive,1,4
+974,Earbuds,"Completely useless, returned immediately.",negative,-1,2
+975,Tablet,"Outstanding performance, will buy again.",positive,1,5
+976,Watch,"Horrible experience, never buying again.",negative,-1,1
+977,Watch,"Great value for money, highly recommend.",positive,1,5
+978,Tablet,"Completely useless, returned immediately.",negative,-1,1
+979,Laptop,Product stopped working after a few days.,negative,-1,1
+980,Laptop,"Decent product, meets basic expectations.",neutral,0,2
+981,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+982,Earbuds,"Works fine, but nothing extraordinary.",neutral,0,3
+983,Earbuds,"Outstanding performance, will buy again.",positive,1,5
+984,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+985,Phone,"Outstanding performance, will buy again.",positive,1,5
+986,Earbuds,"Outstanding performance, will buy again.",positive,1,4
+987,Tablet,"Defective product, customer service unhelpful.",negative,-1,1
+988,Phone,"Outstanding performance, will buy again.",positive,1,4
+989,Tablet,"Outstanding performance, will buy again.",positive,1,5
+990,Phone,"Works fine, but nothing extraordinary.",neutral,0,4
+991,Earbuds,"Outstanding performance, will buy again.",positive,1,5
+992,Tablet,"It is alright, neither good nor bad.",neutral,0,3
+993,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+994,Tablet,Product stopped working after a few days.,negative,-1,2
+995,Phone,"Normal product, average performance.",neutral,0,4
+996,Watch,"Great value for money, highly recommend.",positive,1,4
+997,Earbuds,"Average quality, does the job.",neutral,0,4
+998,Tablet,Really impressed with the build quality.,positive,1,5
+999,Watch,"Very bad quality, not worth the price.",negative,-1,1
+1000,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+1001,Earbuds,Neither impressed nor disappointed.,neutral,0,2
+1002,Tablet,Superb quality and great customer service.,positive,1,5
+1003,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+1004,Phone,"Product is okay, nothing special.",neutral,0,3
+1005,Watch,"Product is acceptable, works as expected.",neutral,0,2
+1006,Watch,Superb quality and great customer service.,positive,1,5
+1007,Tablet,"Best purchase I made this year, very satisfied.",positive,1,4
+1008,Earbuds,"Very bad quality, not worth the price.",negative,-1,1
+1009,Tablet,"Terrible product, broke after one week.",negative,-1,2
+1010,Earbuds,Superb quality and great customer service.,positive,1,5
+1011,Earbuds,"Works fine, but nothing extraordinary.",neutral,0,3
+1012,Tablet,"Terrible product, broke after one week.",negative,-1,1
+1013,Laptop,Superb quality and great customer service.,positive,1,5
+1014,Watch,Really impressed with the build quality.,positive,1,4
+1015,Earbuds,"Terrible product, broke after one week.",negative,-1,1
+1016,Earbuds,Superb quality and great customer service.,positive,1,5
+1017,Laptop,"This product is absolutely amazing, love it!",positive,1,4
+1018,Phone,"Works fine, but nothing extraordinary.",neutral,0,4
+1019,Laptop,"Great value for money, highly recommend.",positive,1,5
+1020,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+1021,Earbuds,"Waste of money, poor quality.",negative,-1,2
+1022,Watch,"Outstanding performance, will buy again.",positive,1,5
+1023,Laptop,"Very bad quality, not worth the price.",negative,-1,1
+1024,Phone,"Defective product, customer service unhelpful.",negative,-1,1
+1025,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+1026,Laptop,Superb quality and great customer service.,positive,1,4
+1027,Laptop,"Very disappointed, does not work as advertised.",negative,-1,2
+1028,Phone,"Waste of money, poor quality.",negative,-1,1
+1029,Watch,"Great value for money, highly recommend.",positive,1,5
+1030,Laptop,"Not satisfied at all, very poor performance.",negative,-1,1
+1031,Laptop,"Normal product, average performance.",neutral,0,4
+1032,Watch,"Excellent quality, very happy with my purchase.",positive,1,4
+1033,Phone,"Great value for money, highly recommend.",positive,1,5
+1034,Laptop,Superb quality and great customer service.,positive,1,5
+1035,Watch,"Outstanding performance, will buy again.",positive,1,5
+1036,Laptop,"Average quality, does the job.",neutral,0,4
+1037,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+1038,Earbuds,"Normal product, average performance.",neutral,0,3
+1039,Tablet,Superb quality and great customer service.,positive,1,5
+1040,Laptop,"Wonderful experience, product is top notch.",positive,1,5
+1041,Phone,"Very bad quality, not worth the price.",negative,-1,2
+1042,Earbuds,"Great value for money, highly recommend.",positive,1,5
+1043,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+1044,Watch,"Okay for the price, not bad.",neutral,0,2
+1045,Phone,"Product is acceptable, works as expected.",neutral,0,4
+1046,Tablet,"Normal product, average performance.",neutral,0,2
+1047,Watch,Neither impressed nor disappointed.,neutral,0,2
+1048,Laptop,Product stopped working after a few days.,negative,-1,2
+1049,Watch,Product stopped working after a few days.,negative,-1,1
+1050,Tablet,"Okay for the price, not bad.",neutral,0,4
+1051,Tablet,"Completely useless, returned immediately.",negative,-1,1
+1052,Laptop,"Very bad quality, not worth the price.",negative,-1,2
+1053,Watch,"Not satisfied at all, very poor performance.",negative,-1,2
+1054,Watch,"Average quality, does the job.",neutral,0,4
+1055,Laptop,"Outstanding performance, will buy again.",positive,1,5
+1056,Watch,"Very disappointed, does not work as advertised.",negative,-1,1
+1057,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+1058,Phone,"Fantastic product, delivery was fast too.",positive,1,4
+1059,Tablet,"Terrible product, broke after one week.",negative,-1,1
+1060,Phone,"Very bad quality, not worth the price.",negative,-1,1
+1061,Earbuds,"Completely useless, returned immediately.",negative,-1,1
+1062,Earbuds,"Not satisfied at all, very poor performance.",negative,-1,1
+1063,Earbuds,"Worst purchase ever, avoid this product.",negative,-1,1
+1064,Laptop,Superb quality and great customer service.,positive,1,5
+1065,Watch,"Outstanding performance, will buy again.",positive,1,4
+1066,Phone,"It is alright, neither good nor bad.",neutral,0,2
+1067,Phone,"Wonderful experience, product is top notch.",positive,1,5
+1068,Phone,"Not satisfied at all, very poor performance.",negative,-1,2
+1069,Phone,"Completely useless, returned immediately.",negative,-1,1
+1070,Earbuds,"Very disappointed, does not work as advertised.",negative,-1,2
+1071,Phone,Really impressed with the build quality.,positive,1,5
+1072,Watch,"Very bad quality, not worth the price.",negative,-1,1
+1073,Earbuds,"Product is acceptable, works as expected.",neutral,0,2
+1074,Phone,"This product is absolutely amazing, love it!",positive,1,5
+1075,Laptop,Really impressed with the build quality.,positive,1,5
+1076,Tablet,Neither impressed nor disappointed.,neutral,0,2
+1077,Tablet,"Waste of money, poor quality.",negative,-1,2
+1078,Tablet,"Satisfactory product, as described.",neutral,0,2
+1079,Earbuds,"Works fine, but nothing extraordinary.",neutral,0,3
+1080,Phone,"Great value for money, highly recommend.",positive,1,4
+1081,Earbuds,"Worst purchase ever, avoid this product.",negative,-1,1
+1082,Watch,"Wonderful experience, product is top notch.",positive,1,5
+1083,Laptop,"Outstanding performance, will buy again.",positive,1,5
+1084,Laptop,"Best purchase I made this year, very satisfied.",positive,1,4
+1085,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+1086,Tablet,Really impressed with the build quality.,positive,1,5
+1087,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+1088,Phone,"Horrible experience, never buying again.",negative,-1,1
+1089,Watch,"Waste of money, poor quality.",negative,-1,1
+1090,Watch,"Wonderful experience, product is top notch.",positive,1,5
+1091,Watch,"Horrible experience, never buying again.",negative,-1,2
+1092,Watch,Superb quality and great customer service.,positive,1,4
+1093,Tablet,"Very disappointed, does not work as advertised.",negative,-1,1
+1094,Laptop,"Waste of money, poor quality.",negative,-1,1
+1095,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+1096,Watch,"Wonderful experience, product is top notch.",positive,1,5
+1097,Tablet,"Horrible experience, never buying again.",negative,-1,1
+1098,Watch,"Horrible experience, never buying again.",negative,-1,1
+1099,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+1100,Laptop,"Excellent quality, very happy with my purchase.",positive,1,5
+1101,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+1102,Phone,"Not satisfied at all, very poor performance.",negative,-1,1
+1103,Tablet,"Product is okay, nothing special.",neutral,0,3
+1104,Phone,"Great value for money, highly recommend.",positive,1,5
+1105,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+1106,Earbuds,"Normal product, average performance.",neutral,0,4
+1107,Watch,Product stopped working after a few days.,negative,-1,1
+1108,Watch,"Wonderful experience, product is top notch.",positive,1,5
+1109,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+1110,Watch,"Very bad quality, not worth the price.",negative,-1,2
+1111,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+1112,Watch,"Decent product, meets basic expectations.",neutral,0,3
+1113,Earbuds,"Product is acceptable, works as expected.",neutral,0,2
+1114,Phone,"Product is acceptable, works as expected.",neutral,0,2
+1115,Earbuds,"Works fine, but nothing extraordinary.",neutral,0,2
+1116,Laptop,"Outstanding performance, will buy again.",positive,1,4
+1117,Laptop,"Outstanding performance, will buy again.",positive,1,5
+1118,Laptop,"Defective product, customer service unhelpful.",negative,-1,1
+1119,Tablet,"Best purchase I made this year, very satisfied.",positive,1,5
+1120,Tablet,"Decent product, meets basic expectations.",neutral,0,4
+1121,Tablet,Really impressed with the build quality.,positive,1,4
+1122,Earbuds,Really impressed with the build quality.,positive,1,5
+1123,Tablet,Really impressed with the build quality.,positive,1,5
+1124,Phone,"Worst purchase ever, avoid this product.",negative,-1,1
+1125,Laptop,"Outstanding performance, will buy again.",positive,1,4
+1126,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+1127,Laptop,"Best purchase I made this year, very satisfied.",positive,1,5
+1128,Tablet,Superb quality and great customer service.,positive,1,5
+1129,Earbuds,"Satisfactory product, as described.",neutral,0,3
+1130,Watch,Really impressed with the build quality.,positive,1,5
+1131,Phone,"Not satisfied at all, very poor performance.",negative,-1,1
+1132,Tablet,Superb quality and great customer service.,positive,1,5
+1133,Tablet,"Excellent quality, very happy with my purchase.",positive,1,5
+1134,Phone,Neither impressed nor disappointed.,neutral,0,3
+1135,Phone,"Excellent quality, very happy with my purchase.",positive,1,5
+1136,Watch,"Best purchase I made this year, very satisfied.",positive,1,5
+1137,Tablet,"Excellent quality, very happy with my purchase.",positive,1,5
+1138,Tablet,"Horrible experience, never buying again.",negative,-1,1
+1139,Laptop,"Best purchase I made this year, very satisfied.",positive,1,5
+1140,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+1141,Earbuds,Really impressed with the build quality.,positive,1,5
+1142,Laptop,"Outstanding performance, will buy again.",positive,1,5
+1143,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,4
+1144,Phone,Product stopped working after a few days.,negative,-1,1
+1145,Earbuds,"Waste of money, poor quality.",negative,-1,2
+1146,Earbuds,"Outstanding performance, will buy again.",positive,1,5
+1147,Laptop,"Not satisfied at all, very poor performance.",negative,-1,1
+1148,Watch,"This product is absolutely amazing, love it!",positive,1,5
+1149,Earbuds,"Great value for money, highly recommend.",positive,1,4
+1150,Earbuds,Really impressed with the build quality.,positive,1,4
+1151,Watch,"Normal product, average performance.",neutral,0,4
+1152,Laptop,"Worst purchase ever, avoid this product.",negative,-1,2
+1153,Watch,"Excellent quality, very happy with my purchase.",positive,1,4
+1154,Laptop,Really impressed with the build quality.,positive,1,5
+1155,Phone,"Terrible product, broke after one week.",negative,-1,1
+1156,Laptop,"Very bad quality, not worth the price.",negative,-1,1
+1157,Phone,"Excellent quality, very happy with my purchase.",positive,1,5
+1158,Phone,"Outstanding performance, will buy again.",positive,1,4
+1159,Laptop,"Fantastic product, delivery was fast too.",positive,1,4
+1160,Tablet,"Average quality, does the job.",neutral,0,4
+1161,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+1162,Earbuds,"Very bad quality, not worth the price.",negative,-1,2
+1163,Earbuds,Superb quality and great customer service.,positive,1,5
+1164,Tablet,"Wonderful experience, product is top notch.",positive,1,5
+1165,Phone,"Decent product, meets basic expectations.",neutral,0,3
+1166,Tablet,"Completely useless, returned immediately.",negative,-1,1
+1167,Earbuds,"Product is acceptable, works as expected.",neutral,0,4
+1168,Tablet,"Great value for money, highly recommend.",positive,1,5
+1169,Laptop,"Worst purchase ever, avoid this product.",negative,-1,2
+1170,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+1171,Phone,Really impressed with the build quality.,positive,1,5
+1172,Laptop,"Defective product, customer service unhelpful.",negative,-1,1
+1173,Watch,"Very disappointed, does not work as advertised.",negative,-1,2
+1174,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+1175,Earbuds,"Product is okay, nothing special.",neutral,0,2
+1176,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+1177,Laptop,"Great value for money, highly recommend.",positive,1,5
+1178,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+1179,Laptop,"Outstanding performance, will buy again.",positive,1,5
+1180,Earbuds,"Okay for the price, not bad.",neutral,0,3
+1181,Laptop,Superb quality and great customer service.,positive,1,5
+1182,Watch,Really impressed with the build quality.,positive,1,5
+1183,Tablet,Product stopped working after a few days.,negative,-1,1
+1184,Phone,Really impressed with the build quality.,positive,1,4
+1185,Laptop,Superb quality and great customer service.,positive,1,5
+1186,Phone,"Horrible experience, never buying again.",negative,-1,1
+1187,Earbuds,"Very disappointed, does not work as advertised.",negative,-1,1
+1188,Tablet,"Works perfectly, exceeded my expectations.",positive,1,4
+1189,Tablet,"Excellent quality, very happy with my purchase.",positive,1,4
+1190,Laptop,"Fantastic product, delivery was fast too.",positive,1,4
+1191,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+1192,Laptop,Superb quality and great customer service.,positive,1,5
+1193,Laptop,"Works fine, but nothing extraordinary.",neutral,0,3
+1194,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+1195,Tablet,"Decent product, meets basic expectations.",neutral,0,2
+1196,Laptop,"Normal product, average performance.",neutral,0,3
+1197,Phone,"Normal product, average performance.",neutral,0,4
+1198,Watch,"Excellent quality, very happy with my purchase.",positive,1,4
+1199,Phone,"Fantastic product, delivery was fast too.",positive,1,4
+1200,Phone,"Normal product, average performance.",neutral,0,2
+1201,Laptop,"Outstanding performance, will buy again.",positive,1,4
+1202,Earbuds,"Terrible product, broke after one week.",negative,-1,2
+1203,Earbuds,"Great value for money, highly recommend.",positive,1,5
+1204,Earbuds,"Works fine, but nothing extraordinary.",neutral,0,4
+1205,Phone,Neither impressed nor disappointed.,neutral,0,3
+1206,Laptop,"Average quality, does the job.",neutral,0,4
+1207,Tablet,Really impressed with the build quality.,positive,1,4
+1208,Phone,Really impressed with the build quality.,positive,1,4
+1209,Phone,"Excellent quality, very happy with my purchase.",positive,1,5
+1210,Laptop,"Product is acceptable, works as expected.",neutral,0,4
+1211,Watch,Superb quality and great customer service.,positive,1,5
+1212,Phone,"This product is absolutely amazing, love it!",positive,1,5
+1213,Watch,"Great value for money, highly recommend.",positive,1,5
+1214,Watch,"Decent product, meets basic expectations.",neutral,0,3
+1215,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+1216,Laptop,"Completely useless, returned immediately.",negative,-1,1
+1217,Watch,"Very bad quality, not worth the price.",negative,-1,2
+1218,Laptop,"Waste of money, poor quality.",negative,-1,1
+1219,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,4
+1220,Laptop,Superb quality and great customer service.,positive,1,4
+1221,Phone,"Best purchase I made this year, very satisfied.",positive,1,4
+1222,Watch,"Great value for money, highly recommend.",positive,1,5
+1223,Laptop,Superb quality and great customer service.,positive,1,4
+1224,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+1225,Laptop,"Not satisfied at all, very poor performance.",negative,-1,2
+1226,Watch,"Outstanding performance, will buy again.",positive,1,4
+1227,Earbuds,"Outstanding performance, will buy again.",positive,1,5
+1228,Earbuds,"Great value for money, highly recommend.",positive,1,5
+1229,Watch,"Product is okay, nothing special.",neutral,0,2
+1230,Phone,"Waste of money, poor quality.",negative,-1,2
+1231,Phone,"Excellent quality, very happy with my purchase.",positive,1,5
+1232,Earbuds,"Very bad quality, not worth the price.",negative,-1,1
+1233,Earbuds,"Completely useless, returned immediately.",negative,-1,1
+1234,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+1235,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+1236,Earbuds,"Outstanding performance, will buy again.",positive,1,5
+1237,Phone,"Waste of money, poor quality.",negative,-1,2
+1238,Earbuds,"Great value for money, highly recommend.",positive,1,4
+1239,Laptop,Superb quality and great customer service.,positive,1,5
+1240,Tablet,"Defective product, customer service unhelpful.",negative,-1,1
+1241,Laptop,"Satisfactory product, as described.",neutral,0,4
+1242,Earbuds,"Decent product, meets basic expectations.",neutral,0,4
+1243,Tablet,"Decent product, meets basic expectations.",neutral,0,3
+1244,Tablet,"Not satisfied at all, very poor performance.",negative,-1,2
+1245,Earbuds,"Normal product, average performance.",neutral,0,2
+1246,Earbuds,"Not satisfied at all, very poor performance.",negative,-1,1
+1247,Phone,"Best purchase I made this year, very satisfied.",positive,1,5
+1248,Earbuds,"Waste of money, poor quality.",negative,-1,1
+1249,Watch,"Okay for the price, not bad.",neutral,0,2
+1250,Earbuds,"Horrible experience, never buying again.",negative,-1,1
+1251,Watch,Really impressed with the build quality.,positive,1,4
+1252,Earbuds,Superb quality and great customer service.,positive,1,5
+1253,Phone,"Outstanding performance, will buy again.",positive,1,4
+1254,Watch,Really impressed with the build quality.,positive,1,5
+1255,Laptop,"Great value for money, highly recommend.",positive,1,5
+1256,Watch,"Average quality, does the job.",neutral,0,2
+1257,Phone,"Very bad quality, not worth the price.",negative,-1,1
+1258,Watch,"Normal product, average performance.",neutral,0,2
+1259,Earbuds,"Terrible product, broke after one week.",negative,-1,1
+1260,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+1261,Phone,"Excellent quality, very happy with my purchase.",positive,1,4
+1262,Tablet,Product stopped working after a few days.,negative,-1,1
+1263,Earbuds,"Great value for money, highly recommend.",positive,1,5
+1264,Laptop,"This product is absolutely amazing, love it!",positive,1,4
+1265,Phone,"Not satisfied at all, very poor performance.",negative,-1,1
+1266,Watch,"It is alright, neither good nor bad.",neutral,0,4
+1267,Watch,"Average quality, does the job.",neutral,0,2
+1268,Laptop,"Product is okay, nothing special.",neutral,0,2
+1269,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+1270,Phone,"Fantastic product, delivery was fast too.",positive,1,4
+1271,Laptop,Really impressed with the build quality.,positive,1,4
+1272,Earbuds,"Great value for money, highly recommend.",positive,1,5
+1273,Phone,Superb quality and great customer service.,positive,1,5
+1274,Watch,"Satisfactory product, as described.",neutral,0,3
+1275,Phone,"Waste of money, poor quality.",negative,-1,1
+1276,Tablet,"Best purchase I made this year, very satisfied.",positive,1,5
+1277,Phone,"Great value for money, highly recommend.",positive,1,5
+1278,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+1279,Phone,"Very disappointed, does not work as advertised.",negative,-1,1
+1280,Tablet,"Best purchase I made this year, very satisfied.",positive,1,4
+1281,Watch,"Okay for the price, not bad.",neutral,0,4
+1282,Earbuds,"Very bad quality, not worth the price.",negative,-1,1
+1283,Tablet,"Average quality, does the job.",neutral,0,4
+1284,Tablet,"Fantastic product, delivery was fast too.",positive,1,4
+1285,Watch,Superb quality and great customer service.,positive,1,5
+1286,Tablet,"Wonderful experience, product is top notch.",positive,1,4
+1287,Laptop,"Product is okay, nothing special.",neutral,0,3
+1288,Watch,"Waste of money, poor quality.",negative,-1,1
+1289,Laptop,"Great value for money, highly recommend.",positive,1,5
+1290,Watch,"Fantastic product, delivery was fast too.",positive,1,5
+1291,Tablet,"Product is okay, nothing special.",neutral,0,2
+1292,Laptop,"Great value for money, highly recommend.",positive,1,4
+1293,Tablet,"Wonderful experience, product is top notch.",positive,1,5
+1294,Watch,"Outstanding performance, will buy again.",positive,1,5
+1295,Tablet,"Defective product, customer service unhelpful.",negative,-1,1
+1296,Laptop,Really impressed with the build quality.,positive,1,5
+1297,Laptop,"Outstanding performance, will buy again.",positive,1,5
+1298,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+1299,Phone,"Works perfectly, exceeded my expectations.",positive,1,4
+1300,Watch,"Normal product, average performance.",neutral,0,3
+1301,Watch,"Decent product, meets basic expectations.",neutral,0,4
+1302,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+1303,Phone,"Works perfectly, exceeded my expectations.",positive,1,4
+1304,Laptop,Superb quality and great customer service.,positive,1,5
+1305,Earbuds,"Terrible product, broke after one week.",negative,-1,1
+1306,Earbuds,"Normal product, average performance.",neutral,0,4
+1307,Tablet,"Works fine, but nothing extraordinary.",neutral,0,2
+1308,Phone,"Best purchase I made this year, very satisfied.",positive,1,5
+1309,Phone,"Completely useless, returned immediately.",negative,-1,1
+1310,Watch,"Great value for money, highly recommend.",positive,1,5
+1311,Laptop,"Very disappointed, does not work as advertised.",negative,-1,1
+1312,Phone,"Terrible product, broke after one week.",negative,-1,1
+1313,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+1314,Laptop,Superb quality and great customer service.,positive,1,4
+1315,Laptop,"Terrible product, broke after one week.",negative,-1,1
+1316,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+1317,Phone,"Best purchase I made this year, very satisfied.",positive,1,5
+1318,Tablet,Really impressed with the build quality.,positive,1,4
+1319,Phone,"Waste of money, poor quality.",negative,-1,2
+1320,Watch,"Defective product, customer service unhelpful.",negative,-1,2
+1321,Tablet,"Waste of money, poor quality.",negative,-1,1
+1322,Tablet,Neither impressed nor disappointed.,neutral,0,3
+1323,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,4
+1324,Tablet,Product stopped working after a few days.,negative,-1,2
+1325,Phone,"Satisfactory product, as described.",neutral,0,2
+1326,Earbuds,"Okay for the price, not bad.",neutral,0,3
+1327,Tablet,Neither impressed nor disappointed.,neutral,0,4
+1328,Tablet,"Works perfectly, exceeded my expectations.",positive,1,4
+1329,Watch,"Best purchase I made this year, very satisfied.",positive,1,4
+1330,Tablet,"Defective product, customer service unhelpful.",negative,-1,1
+1331,Laptop,"Product is okay, nothing special.",neutral,0,2
+1332,Earbuds,Really impressed with the build quality.,positive,1,4
+1333,Laptop,"Not satisfied at all, very poor performance.",negative,-1,2
+1334,Earbuds,"Outstanding performance, will buy again.",positive,1,4
+1335,Watch,"Very disappointed, does not work as advertised.",negative,-1,2
+1336,Tablet,"Best purchase I made this year, very satisfied.",positive,1,4
+1337,Tablet,"Very bad quality, not worth the price.",negative,-1,1
+1338,Tablet,"Very disappointed, does not work as advertised.",negative,-1,1
+1339,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,4
+1340,Tablet,Neither impressed nor disappointed.,neutral,0,3
+1341,Laptop,Superb quality and great customer service.,positive,1,5
+1342,Tablet,"Product is acceptable, works as expected.",neutral,0,2
+1343,Watch,"Fantastic product, delivery was fast too.",positive,1,5
+1344,Laptop,"Terrible product, broke after one week.",negative,-1,1
+1345,Tablet,"Very disappointed, does not work as advertised.",negative,-1,1
+1346,Tablet,"Outstanding performance, will buy again.",positive,1,5
+1347,Phone,Product stopped working after a few days.,negative,-1,1
+1348,Earbuds,"Product is okay, nothing special.",neutral,0,3
+1349,Laptop,"Decent product, meets basic expectations.",neutral,0,2
+1350,Phone,"Excellent quality, very happy with my purchase.",positive,1,5
+1351,Watch,"Terrible product, broke after one week.",negative,-1,1
+1352,Earbuds,"Outstanding performance, will buy again.",positive,1,4
+1353,Laptop,"Horrible experience, never buying again.",negative,-1,1
+1354,Tablet,"Very bad quality, not worth the price.",negative,-1,1
+1355,Laptop,"Great value for money, highly recommend.",positive,1,5
+1356,Tablet,"Excellent quality, very happy with my purchase.",positive,1,4
+1357,Earbuds,Superb quality and great customer service.,positive,1,5
+1358,Tablet,"Decent product, meets basic expectations.",neutral,0,4
+1359,Watch,"It is alright, neither good nor bad.",neutral,0,3
+1360,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+1361,Watch,"Product is acceptable, works as expected.",neutral,0,2
+1362,Earbuds,"Fantastic product, delivery was fast too.",positive,1,5
+1363,Earbuds,Product stopped working after a few days.,negative,-1,1
+1364,Laptop,"Outstanding performance, will buy again.",positive,1,5
+1365,Watch,"Works fine, but nothing extraordinary.",neutral,0,3
+1366,Watch,"Works fine, but nothing extraordinary.",neutral,0,2
+1367,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+1368,Phone,"Not satisfied at all, very poor performance.",negative,-1,2
+1369,Phone,"It is alright, neither good nor bad.",neutral,0,3
+1370,Tablet,"Fantastic product, delivery was fast too.",positive,1,4
+1371,Phone,Product stopped working after a few days.,negative,-1,1
+1372,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+1373,Tablet,"Outstanding performance, will buy again.",positive,1,5
+1374,Earbuds,"Decent product, meets basic expectations.",neutral,0,2
+1375,Laptop,"Excellent quality, very happy with my purchase.",positive,1,5
+1376,Phone,"Works perfectly, exceeded my expectations.",positive,1,5
+1377,Earbuds,"Outstanding performance, will buy again.",positive,1,5
+1378,Watch,"Outstanding performance, will buy again.",positive,1,5
+1379,Laptop,"Normal product, average performance.",neutral,0,4
+1380,Earbuds,"Terrible product, broke after one week.",negative,-1,1
+1381,Laptop,"Worst purchase ever, avoid this product.",negative,-1,1
+1382,Phone,"Average quality, does the job.",neutral,0,3
+1383,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+1384,Laptop,"Waste of money, poor quality.",negative,-1,1
+1385,Earbuds,"Okay for the price, not bad.",neutral,0,2
+1386,Phone,Superb quality and great customer service.,positive,1,5
+1387,Phone,Product stopped working after a few days.,negative,-1,2
+1388,Earbuds,"Worst purchase ever, avoid this product.",negative,-1,1
+1389,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+1390,Laptop,"Very bad quality, not worth the price.",negative,-1,1
+1391,Tablet,"Outstanding performance, will buy again.",positive,1,4
+1392,Phone,"Very bad quality, not worth the price.",negative,-1,1
+1393,Laptop,"Very bad quality, not worth the price.",negative,-1,1
+1394,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+1395,Laptop,"This product is absolutely amazing, love it!",positive,1,5
+1396,Earbuds,"Not satisfied at all, very poor performance.",negative,-1,2
+1397,Watch,"Satisfactory product, as described.",neutral,0,2
+1398,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+1399,Earbuds,"Horrible experience, never buying again.",negative,-1,1
+1400,Earbuds,"Normal product, average performance.",neutral,0,2
+1401,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+1402,Earbuds,"Worst purchase ever, avoid this product.",negative,-1,1
+1403,Phone,Really impressed with the build quality.,positive,1,5
+1404,Phone,"This product is absolutely amazing, love it!",positive,1,5
+1405,Laptop,"Average quality, does the job.",neutral,0,4
+1406,Tablet,"Great value for money, highly recommend.",positive,1,4
+1407,Laptop,"Decent product, meets basic expectations.",neutral,0,3
+1408,Phone,Really impressed with the build quality.,positive,1,4
+1409,Phone,"This product is absolutely amazing, love it!",positive,1,5
+1410,Watch,"Terrible product, broke after one week.",negative,-1,1
+1411,Earbuds,"Decent product, meets basic expectations.",neutral,0,3
+1412,Phone,"Works perfectly, exceeded my expectations.",positive,1,5
+1413,Laptop,"Best purchase I made this year, very satisfied.",positive,1,5
+1414,Laptop,"Fantastic product, delivery was fast too.",positive,1,5
+1415,Earbuds,"Waste of money, poor quality.",negative,-1,1
+1416,Earbuds,"Defective product, customer service unhelpful.",negative,-1,2
+1417,Watch,Product stopped working after a few days.,negative,-1,2
+1418,Tablet,"Excellent quality, very happy with my purchase.",positive,1,5
+1419,Laptop,"Works perfectly, exceeded my expectations.",positive,1,4
+1420,Earbuds,Really impressed with the build quality.,positive,1,5
+1421,Laptop,"Waste of money, poor quality.",negative,-1,1
+1422,Earbuds,"Okay for the price, not bad.",neutral,0,3
+1423,Phone,"Okay for the price, not bad.",neutral,0,3
+1424,Laptop,"Best purchase I made this year, very satisfied.",positive,1,4
+1425,Phone,"Great value for money, highly recommend.",positive,1,5
+1426,Laptop,"Product is okay, nothing special.",neutral,0,3
+1427,Tablet,Superb quality and great customer service.,positive,1,5
+1428,Watch,Neither impressed nor disappointed.,neutral,0,2
+1429,Phone,"Horrible experience, never buying again.",negative,-1,2
+1430,Earbuds,"Worst purchase ever, avoid this product.",negative,-1,1
+1431,Tablet,"Excellent quality, very happy with my purchase.",positive,1,5
+1432,Laptop,"Great value for money, highly recommend.",positive,1,5
+1433,Phone,"Fantastic product, delivery was fast too.",positive,1,4
+1434,Laptop,Superb quality and great customer service.,positive,1,5
+1435,Laptop,"Excellent quality, very happy with my purchase.",positive,1,4
+1436,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+1437,Watch,"Very disappointed, does not work as advertised.",negative,-1,1
+1438,Watch,"Best purchase I made this year, very satisfied.",positive,1,5
+1439,Earbuds,"Satisfactory product, as described.",neutral,0,3
+1440,Phone,"Excellent quality, very happy with my purchase.",positive,1,5
+1441,Tablet,"Worst purchase ever, avoid this product.",negative,-1,1
+1442,Tablet,"Excellent quality, very happy with my purchase.",positive,1,4
+1443,Tablet,Superb quality and great customer service.,positive,1,5
+1444,Laptop,Superb quality and great customer service.,positive,1,5
+1445,Watch,"Fantastic product, delivery was fast too.",positive,1,5
+1446,Phone,"Outstanding performance, will buy again.",positive,1,5
+1447,Laptop,"Product is okay, nothing special.",neutral,0,4
+1448,Watch,Product stopped working after a few days.,negative,-1,1
+1449,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+1450,Phone,Really impressed with the build quality.,positive,1,5
+1451,Phone,"Terrible product, broke after one week.",negative,-1,2
+1452,Phone,"Defective product, customer service unhelpful.",negative,-1,2
+1453,Laptop,"Worst purchase ever, avoid this product.",negative,-1,2
+1454,Earbuds,"Horrible experience, never buying again.",negative,-1,2
+1455,Phone,"Very disappointed, does not work as advertised.",negative,-1,2
+1456,Earbuds,"Horrible experience, never buying again.",negative,-1,1
+1457,Laptop,"Fantastic product, delivery was fast too.",positive,1,4
+1458,Earbuds,"Horrible experience, never buying again.",negative,-1,2
+1459,Tablet,"Best purchase I made this year, very satisfied.",positive,1,4
+1460,Earbuds,"Completely useless, returned immediately.",negative,-1,1
+1461,Phone,"Excellent quality, very happy with my purchase.",positive,1,5
+1462,Laptop,"Excellent quality, very happy with my purchase.",positive,1,5
+1463,Phone,"Not satisfied at all, very poor performance.",negative,-1,1
+1464,Tablet,"Not satisfied at all, very poor performance.",negative,-1,2
+1465,Phone,"Wonderful experience, product is top notch.",positive,1,5
+1466,Phone,"Very disappointed, does not work as advertised.",negative,-1,1
+1467,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+1468,Watch,"Okay for the price, not bad.",neutral,0,4
+1469,Tablet,Neither impressed nor disappointed.,neutral,0,4
+1470,Phone,Really impressed with the build quality.,positive,1,5
+1471,Phone,Really impressed with the build quality.,positive,1,5
+1472,Phone,"Works perfectly, exceeded my expectations.",positive,1,5
+1473,Laptop,"Very disappointed, does not work as advertised.",negative,-1,1
+1474,Watch,"Great value for money, highly recommend.",positive,1,5
+1475,Laptop,"Decent product, meets basic expectations.",neutral,0,2
+1476,Watch,"This product is absolutely amazing, love it!",positive,1,5
+1477,Phone,Superb quality and great customer service.,positive,1,4
+1478,Tablet,"Works fine, but nothing extraordinary.",neutral,0,3
+1479,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+1480,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+1481,Phone,Neither impressed nor disappointed.,neutral,0,3
+1482,Laptop,"Defective product, customer service unhelpful.",negative,-1,1
+1483,Tablet,"Outstanding performance, will buy again.",positive,1,5
+1484,Watch,Product stopped working after a few days.,negative,-1,1
+1485,Phone,"Product is okay, nothing special.",neutral,0,4
+1486,Tablet,"Not satisfied at all, very poor performance.",negative,-1,1
+1487,Tablet,"Outstanding performance, will buy again.",positive,1,5
+1488,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+1489,Tablet,"Defective product, customer service unhelpful.",negative,-1,2
+1490,Laptop,"Fantastic product, delivery was fast too.",positive,1,5
+1491,Laptop,Neither impressed nor disappointed.,neutral,0,2
+1492,Laptop,"Excellent quality, very happy with my purchase.",positive,1,5
+1493,Tablet,"Waste of money, poor quality.",negative,-1,1
+1494,Laptop,"Best purchase I made this year, very satisfied.",positive,1,5
+1495,Watch,"Very disappointed, does not work as advertised.",negative,-1,2
+1496,Tablet,"Horrible experience, never buying again.",negative,-1,1
+1497,Earbuds,Neither impressed nor disappointed.,neutral,0,2
+1498,Tablet,"Very bad quality, not worth the price.",negative,-1,1
+1499,Watch,"Product is okay, nothing special.",neutral,0,4
+1500,Earbuds,"Completely useless, returned immediately.",negative,-1,2
+1501,Tablet,"Very disappointed, does not work as advertised.",negative,-1,2
+1502,Laptop,Superb quality and great customer service.,positive,1,5
+1503,Phone,"Very disappointed, does not work as advertised.",negative,-1,1
+1504,Phone,"Very bad quality, not worth the price.",negative,-1,1
+1505,Laptop,Product stopped working after a few days.,negative,-1,2
+1506,Phone,"Very bad quality, not worth the price.",negative,-1,1
+1507,Phone,"Great value for money, highly recommend.",positive,1,4
+1508,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+1509,Laptop,"Terrible product, broke after one week.",negative,-1,1
+1510,Tablet,"Wonderful experience, product is top notch.",positive,1,4
+1511,Tablet,Product stopped working after a few days.,negative,-1,2
+1512,Laptop,Product stopped working after a few days.,negative,-1,2
+1513,Watch,"Average quality, does the job.",neutral,0,2
+1514,Phone,"Great value for money, highly recommend.",positive,1,4
+1515,Tablet,"Decent product, meets basic expectations.",neutral,0,3
+1516,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+1517,Earbuds,"Very bad quality, not worth the price.",negative,-1,1
+1518,Laptop,Really impressed with the build quality.,positive,1,5
+1519,Watch,"Product is acceptable, works as expected.",neutral,0,2
+1520,Earbuds,"Horrible experience, never buying again.",negative,-1,1
+1521,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+1522,Earbuds,"Defective product, customer service unhelpful.",negative,-1,2
+1523,Laptop,"Satisfactory product, as described.",neutral,0,3
+1524,Tablet,Really impressed with the build quality.,positive,1,5
+1525,Laptop,"Fantastic product, delivery was fast too.",positive,1,5
+1526,Tablet,"Outstanding performance, will buy again.",positive,1,5
+1527,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+1528,Earbuds,"Horrible experience, never buying again.",negative,-1,1
+1529,Watch,Product stopped working after a few days.,negative,-1,1
+1530,Tablet,"Completely useless, returned immediately.",negative,-1,1
+1531,Earbuds,"Decent product, meets basic expectations.",neutral,0,4
+1532,Phone,Superb quality and great customer service.,positive,1,5
+1533,Watch,"Not satisfied at all, very poor performance.",negative,-1,1
+1534,Laptop,"Fantastic product, delivery was fast too.",positive,1,4
+1535,Watch,Superb quality and great customer service.,positive,1,5
+1536,Phone,Really impressed with the build quality.,positive,1,5
+1537,Tablet,"Average quality, does the job.",neutral,0,3
+1538,Laptop,"Best purchase I made this year, very satisfied.",positive,1,5
+1539,Laptop,"Horrible experience, never buying again.",negative,-1,1
+1540,Tablet,Neither impressed nor disappointed.,neutral,0,3
+1541,Watch,Superb quality and great customer service.,positive,1,5
+1542,Earbuds,"Average quality, does the job.",neutral,0,4
+1543,Watch,"Very bad quality, not worth the price.",negative,-1,1
+1544,Phone,"Wonderful experience, product is top notch.",positive,1,5
+1545,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+1546,Watch,Neither impressed nor disappointed.,neutral,0,2
+1547,Tablet,"Waste of money, poor quality.",negative,-1,1
+1548,Phone,"Outstanding performance, will buy again.",positive,1,5
+1549,Phone,"Horrible experience, never buying again.",negative,-1,2
+1550,Phone,"This product is absolutely amazing, love it!",positive,1,5
+1551,Earbuds,"Great value for money, highly recommend.",positive,1,5
+1552,Laptop,"Fantastic product, delivery was fast too.",positive,1,5
+1553,Earbuds,Really impressed with the build quality.,positive,1,5
+1554,Watch,"Defective product, customer service unhelpful.",negative,-1,1
+1555,Laptop,"Outstanding performance, will buy again.",positive,1,5
+1556,Watch,Really impressed with the build quality.,positive,1,4
+1557,Laptop,"Fantastic product, delivery was fast too.",positive,1,5
+1558,Earbuds,"Fantastic product, delivery was fast too.",positive,1,5
+1559,Phone,"Defective product, customer service unhelpful.",negative,-1,2
+1560,Tablet,Product stopped working after a few days.,negative,-1,1
+1561,Phone,"Very bad quality, not worth the price.",negative,-1,1
+1562,Earbuds,"Defective product, customer service unhelpful.",negative,-1,2
+1563,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+1564,Phone,Superb quality and great customer service.,positive,1,5
+1565,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+1566,Watch,"Excellent quality, very happy with my purchase.",positive,1,4
+1567,Tablet,"Satisfactory product, as described.",neutral,0,3
+1568,Phone,"Great value for money, highly recommend.",positive,1,5
+1569,Laptop,"Okay for the price, not bad.",neutral,0,3
+1570,Watch,"Defective product, customer service unhelpful.",negative,-1,1
+1571,Earbuds,Product stopped working after a few days.,negative,-1,1
+1572,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+1573,Laptop,"Fantastic product, delivery was fast too.",positive,1,5
+1574,Earbuds,"Defective product, customer service unhelpful.",negative,-1,1
+1575,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,4
+1576,Phone,"Very disappointed, does not work as advertised.",negative,-1,2
+1577,Phone,Product stopped working after a few days.,negative,-1,1
+1578,Laptop,"Average quality, does the job.",neutral,0,2
+1579,Earbuds,"Defective product, customer service unhelpful.",negative,-1,1
+1580,Phone,"Great value for money, highly recommend.",positive,1,5
+1581,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+1582,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+1583,Earbuds,Superb quality and great customer service.,positive,1,5
+1584,Phone,"Very bad quality, not worth the price.",negative,-1,2
+1585,Laptop,Product stopped working after a few days.,negative,-1,1
+1586,Laptop,"Outstanding performance, will buy again.",positive,1,4
+1587,Laptop,"Wonderful experience, product is top notch.",positive,1,4
+1588,Tablet,"Works fine, but nothing extraordinary.",neutral,0,3
+1589,Phone,Superb quality and great customer service.,positive,1,5
+1590,Phone,"Okay for the price, not bad.",neutral,0,4
+1591,Tablet,"Satisfactory product, as described.",neutral,0,4
+1592,Laptop,Really impressed with the build quality.,positive,1,5
+1593,Laptop,"Wonderful experience, product is top notch.",positive,1,5
+1594,Earbuds,"Satisfactory product, as described.",neutral,0,4
+1595,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+1596,Phone,Neither impressed nor disappointed.,neutral,0,2
+1597,Phone,"Terrible product, broke after one week.",negative,-1,1
+1598,Phone,"Horrible experience, never buying again.",negative,-1,1
+1599,Watch,"Waste of money, poor quality.",negative,-1,1
+1600,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+1601,Watch,"Terrible product, broke after one week.",negative,-1,1
+1602,Laptop,"Horrible experience, never buying again.",negative,-1,2
+1603,Laptop,"Outstanding performance, will buy again.",positive,1,5
+1604,Phone,"Great value for money, highly recommend.",positive,1,4
+1605,Tablet,"Product is okay, nothing special.",neutral,0,4
+1606,Phone,"Great value for money, highly recommend.",positive,1,5
+1607,Tablet,"Wonderful experience, product is top notch.",positive,1,5
+1608,Watch,Neither impressed nor disappointed.,neutral,0,3
+1609,Laptop,"Wonderful experience, product is top notch.",positive,1,5
+1610,Tablet,"Satisfactory product, as described.",neutral,0,4
+1611,Watch,Neither impressed nor disappointed.,neutral,0,4
+1612,Laptop,"Works fine, but nothing extraordinary.",neutral,0,4
+1613,Tablet,"Worst purchase ever, avoid this product.",negative,-1,2
+1614,Phone,"Waste of money, poor quality.",negative,-1,2
+1615,Phone,"Works perfectly, exceeded my expectations.",positive,1,5
+1616,Phone,"Best purchase I made this year, very satisfied.",positive,1,4
+1617,Watch,"Normal product, average performance.",neutral,0,4
+1618,Phone,"Works fine, but nothing extraordinary.",neutral,0,3
+1619,Earbuds,"Great value for money, highly recommend.",positive,1,5
+1620,Laptop,"It is alright, neither good nor bad.",neutral,0,3
+1621,Watch,"Great value for money, highly recommend.",positive,1,5
+1622,Phone,Superb quality and great customer service.,positive,1,5
+1623,Laptop,"Works perfectly, exceeded my expectations.",positive,1,4
+1624,Tablet,"Not satisfied at all, very poor performance.",negative,-1,2
+1625,Phone,"Wonderful experience, product is top notch.",positive,1,5
+1626,Laptop,"Works fine, but nothing extraordinary.",neutral,0,2
+1627,Earbuds,Superb quality and great customer service.,positive,1,4
+1628,Tablet,"It is alright, neither good nor bad.",neutral,0,3
+1629,Earbuds,"Worst purchase ever, avoid this product.",negative,-1,1
+1630,Laptop,"Great value for money, highly recommend.",positive,1,5
+1631,Earbuds,Really impressed with the build quality.,positive,1,4
+1632,Laptop,"Outstanding performance, will buy again.",positive,1,5
+1633,Laptop,"Best purchase I made this year, very satisfied.",positive,1,5
+1634,Earbuds,"Works fine, but nothing extraordinary.",neutral,0,4
+1635,Laptop,"Not satisfied at all, very poor performance.",negative,-1,2
+1636,Phone,"Very bad quality, not worth the price.",negative,-1,2
+1637,Laptop,Really impressed with the build quality.,positive,1,5
+1638,Watch,"Normal product, average performance.",neutral,0,4
+1639,Laptop,"Outstanding performance, will buy again.",positive,1,5
+1640,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+1641,Laptop,"Satisfactory product, as described.",neutral,0,4
+1642,Laptop,"Very bad quality, not worth the price.",negative,-1,1
+1643,Earbuds,"Horrible experience, never buying again.",negative,-1,2
+1644,Phone,Product stopped working after a few days.,negative,-1,2
+1645,Phone,"Defective product, customer service unhelpful.",negative,-1,1
+1646,Tablet,"Outstanding performance, will buy again.",positive,1,4
+1647,Earbuds,"Waste of money, poor quality.",negative,-1,1
+1648,Earbuds,"Fantastic product, delivery was fast too.",positive,1,5
+1649,Phone,Superb quality and great customer service.,positive,1,5
+1650,Earbuds,"Very bad quality, not worth the price.",negative,-1,1
+1651,Phone,"Terrible product, broke after one week.",negative,-1,2
+1652,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,4
+1653,Laptop,"Defective product, customer service unhelpful.",negative,-1,1
+1654,Phone,"Excellent quality, very happy with my purchase.",positive,1,5
+1655,Phone,"Not satisfied at all, very poor performance.",negative,-1,2
+1656,Watch,"Wonderful experience, product is top notch.",positive,1,5
+1657,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+1658,Earbuds,"Horrible experience, never buying again.",negative,-1,1
+1659,Phone,Product stopped working after a few days.,negative,-1,2
+1660,Laptop,"Terrible product, broke after one week.",negative,-1,2
+1661,Laptop,"Not satisfied at all, very poor performance.",negative,-1,1
+1662,Laptop,"This product is absolutely amazing, love it!",positive,1,5
+1663,Earbuds,"Okay for the price, not bad.",neutral,0,3
+1664,Watch,"Best purchase I made this year, very satisfied.",positive,1,5
+1665,Phone,"This product is absolutely amazing, love it!",positive,1,4
+1666,Tablet,"Wonderful experience, product is top notch.",positive,1,5
+1667,Watch,"Not satisfied at all, very poor performance.",negative,-1,1
+1668,Tablet,Really impressed with the build quality.,positive,1,4
+1669,Watch,"Fantastic product, delivery was fast too.",positive,1,4
+1670,Laptop,"Great value for money, highly recommend.",positive,1,5
+1671,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+1672,Tablet,"Completely useless, returned immediately.",negative,-1,2
+1673,Watch,"Terrible product, broke after one week.",negative,-1,1
+1674,Earbuds,"Great value for money, highly recommend.",positive,1,5
+1675,Tablet,"Horrible experience, never buying again.",negative,-1,1
+1676,Phone,"Works perfectly, exceeded my expectations.",positive,1,5
+1677,Watch,"Waste of money, poor quality.",negative,-1,1
+1678,Phone,"Wonderful experience, product is top notch.",positive,1,5
+1679,Laptop,"Very disappointed, does not work as advertised.",negative,-1,1
+1680,Phone,"Great value for money, highly recommend.",positive,1,5
+1681,Phone,"Waste of money, poor quality.",negative,-1,2
+1682,Watch,"Terrible product, broke after one week.",negative,-1,1
+1683,Laptop,"Decent product, meets basic expectations.",neutral,0,4
+1684,Phone,"Outstanding performance, will buy again.",positive,1,4
+1685,Earbuds,"Very bad quality, not worth the price.",negative,-1,1
+1686,Tablet,"Works perfectly, exceeded my expectations.",positive,1,4
+1687,Phone,"Product is acceptable, works as expected.",neutral,0,2
+1688,Laptop,"It is alright, neither good nor bad.",neutral,0,3
+1689,Phone,"Very disappointed, does not work as advertised.",negative,-1,1
+1690,Tablet,"Decent product, meets basic expectations.",neutral,0,3
+1691,Laptop,"Worst purchase ever, avoid this product.",negative,-1,1
+1692,Watch,Superb quality and great customer service.,positive,1,4
+1693,Laptop,"Average quality, does the job.",neutral,0,4
+1694,Watch,"Decent product, meets basic expectations.",neutral,0,4
+1695,Laptop,"Horrible experience, never buying again.",negative,-1,1
+1696,Tablet,"Terrible product, broke after one week.",negative,-1,2
+1697,Tablet,Product stopped working after a few days.,negative,-1,2
+1698,Laptop,"This product is absolutely amazing, love it!",positive,1,4
+1699,Phone,"Works fine, but nothing extraordinary.",neutral,0,3
+1700,Tablet,Product stopped working after a few days.,negative,-1,1
+1701,Watch,"This product is absolutely amazing, love it!",positive,1,4
+1702,Watch,Really impressed with the build quality.,positive,1,5
+1703,Earbuds,Product stopped working after a few days.,negative,-1,1
+1704,Watch,"Best purchase I made this year, very satisfied.",positive,1,5
+1705,Earbuds,"It is alright, neither good nor bad.",neutral,0,3
+1706,Laptop,"Completely useless, returned immediately.",negative,-1,1
+1707,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+1708,Laptop,"Worst purchase ever, avoid this product.",negative,-1,1
+1709,Phone,"Okay for the price, not bad.",neutral,0,4
+1710,Phone,"Wonderful experience, product is top notch.",positive,1,5
+1711,Earbuds,"Okay for the price, not bad.",neutral,0,4
+1712,Watch,"Wonderful experience, product is top notch.",positive,1,5
+1713,Watch,"Fantastic product, delivery was fast too.",positive,1,4
+1714,Laptop,"Not satisfied at all, very poor performance.",negative,-1,1
+1715,Tablet,"Defective product, customer service unhelpful.",negative,-1,1
+1716,Phone,"Terrible product, broke after one week.",negative,-1,1
+1717,Phone,"Best purchase I made this year, very satisfied.",positive,1,4
+1718,Laptop,"Wonderful experience, product is top notch.",positive,1,5
+1719,Phone,"Waste of money, poor quality.",negative,-1,1
+1720,Laptop,Superb quality and great customer service.,positive,1,5
+1721,Earbuds,"Very bad quality, not worth the price.",negative,-1,2
+1722,Watch,"Best purchase I made this year, very satisfied.",positive,1,4
+1723,Tablet,"Fantastic product, delivery was fast too.",positive,1,4
+1724,Watch,Really impressed with the build quality.,positive,1,5
+1725,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+1726,Earbuds,"Very disappointed, does not work as advertised.",negative,-1,1
+1727,Phone,"Excellent quality, very happy with my purchase.",positive,1,4
+1728,Tablet,"Very bad quality, not worth the price.",negative,-1,1
+1729,Phone,"Wonderful experience, product is top notch.",positive,1,4
+1730,Watch,"Fantastic product, delivery was fast too.",positive,1,4
+1731,Laptop,"Great value for money, highly recommend.",positive,1,4
+1732,Watch,"Excellent quality, very happy with my purchase.",positive,1,4
+1733,Phone,"Product is okay, nothing special.",neutral,0,2
+1734,Watch,Really impressed with the build quality.,positive,1,5
+1735,Laptop,"Fantastic product, delivery was fast too.",positive,1,4
+1736,Earbuds,"Works fine, but nothing extraordinary.",neutral,0,2
+1737,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+1738,Watch,"Not satisfied at all, very poor performance.",negative,-1,1
+1739,Phone,"This product is absolutely amazing, love it!",positive,1,5
+1740,Earbuds,"Great value for money, highly recommend.",positive,1,4
+1741,Watch,Neither impressed nor disappointed.,neutral,0,2
+1742,Watch,"This product is absolutely amazing, love it!",positive,1,4
+1743,Phone,Really impressed with the build quality.,positive,1,4
+1744,Phone,"Product is acceptable, works as expected.",neutral,0,4
+1745,Laptop,"Very bad quality, not worth the price.",negative,-1,1
+1746,Earbuds,"Product is okay, nothing special.",neutral,0,3
+1747,Laptop,"Fantastic product, delivery was fast too.",positive,1,4
+1748,Watch,"Great value for money, highly recommend.",positive,1,4
+1749,Phone,"Not satisfied at all, very poor performance.",negative,-1,1
+1750,Watch,"Great value for money, highly recommend.",positive,1,5
+1751,Watch,Really impressed with the build quality.,positive,1,5
+1752,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+1753,Tablet,"Terrible product, broke after one week.",negative,-1,1
+1754,Watch,"Not satisfied at all, very poor performance.",negative,-1,1
+1755,Phone,"Great value for money, highly recommend.",positive,1,4
+1756,Watch,"Best purchase I made this year, very satisfied.",positive,1,4
+1757,Tablet,"Best purchase I made this year, very satisfied.",positive,1,5
+1758,Phone,"Great value for money, highly recommend.",positive,1,5
+1759,Watch,"This product is absolutely amazing, love it!",positive,1,5
+1760,Earbuds,"Outstanding performance, will buy again.",positive,1,5
+1761,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,4
+1762,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+1763,Phone,"Defective product, customer service unhelpful.",negative,-1,1
+1764,Watch,"Very disappointed, does not work as advertised.",negative,-1,2
+1765,Watch,"Best purchase I made this year, very satisfied.",positive,1,4
+1766,Tablet,"Satisfactory product, as described.",neutral,0,3
+1767,Earbuds,"Great value for money, highly recommend.",positive,1,4
+1768,Tablet,"Okay for the price, not bad.",neutral,0,3
+1769,Tablet,"Wonderful experience, product is top notch.",positive,1,5
+1770,Watch,"Completely useless, returned immediately.",negative,-1,1
+1771,Tablet,"Worst purchase ever, avoid this product.",negative,-1,2
+1772,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+1773,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+1774,Earbuds,"Completely useless, returned immediately.",negative,-1,2
+1775,Tablet,"This product is absolutely amazing, love it!",positive,1,5
+1776,Earbuds,Neither impressed nor disappointed.,neutral,0,3
+1777,Tablet,"Outstanding performance, will buy again.",positive,1,4
+1778,Tablet,"Wonderful experience, product is top notch.",positive,1,5
+1779,Phone,"Fantastic product, delivery was fast too.",positive,1,4
+1780,Earbuds,"Great value for money, highly recommend.",positive,1,5
+1781,Earbuds,Product stopped working after a few days.,negative,-1,1
+1782,Earbuds,"Very disappointed, does not work as advertised.",negative,-1,2
+1783,Laptop,"Satisfactory product, as described.",neutral,0,4
+1784,Tablet,"Defective product, customer service unhelpful.",negative,-1,2
+1785,Earbuds,"Great value for money, highly recommend.",positive,1,5
+1786,Laptop,"Completely useless, returned immediately.",negative,-1,2
+1787,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+1788,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+1789,Earbuds,"Very bad quality, not worth the price.",negative,-1,1
+1790,Laptop,"Terrible product, broke after one week.",negative,-1,1
+1791,Tablet,"Works fine, but nothing extraordinary.",neutral,0,2
+1792,Phone,"Outstanding performance, will buy again.",positive,1,4
+1793,Earbuds,Product stopped working after a few days.,negative,-1,1
+1794,Tablet,"Waste of money, poor quality.",negative,-1,1
+1795,Phone,"It is alright, neither good nor bad.",neutral,0,2
+1796,Watch,"Great value for money, highly recommend.",positive,1,5
+1797,Watch,"Great value for money, highly recommend.",positive,1,5
+1798,Phone,"Okay for the price, not bad.",neutral,0,2
+1799,Laptop,"Not satisfied at all, very poor performance.",negative,-1,1
+1800,Phone,"Wonderful experience, product is top notch.",positive,1,5
+1801,Phone,Neither impressed nor disappointed.,neutral,0,2
+1802,Laptop,"Normal product, average performance.",neutral,0,4
+1803,Laptop,"It is alright, neither good nor bad.",neutral,0,2
+1804,Tablet,"Terrible product, broke after one week.",negative,-1,1
+1805,Tablet,"Completely useless, returned immediately.",negative,-1,2
+1806,Laptop,"This product is absolutely amazing, love it!",positive,1,5
+1807,Watch,Really impressed with the build quality.,positive,1,5
+1808,Watch,"Works perfectly, exceeded my expectations.",positive,1,5
+1809,Phone,Really impressed with the build quality.,positive,1,4
+1810,Earbuds,"Product is acceptable, works as expected.",neutral,0,3
+1811,Phone,"Normal product, average performance.",neutral,0,2
+1812,Phone,Really impressed with the build quality.,positive,1,4
+1813,Earbuds,Really impressed with the build quality.,positive,1,5
+1814,Laptop,"Outstanding performance, will buy again.",positive,1,5
+1815,Watch,"Great value for money, highly recommend.",positive,1,5
+1816,Phone,"Best purchase I made this year, very satisfied.",positive,1,4
+1817,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,4
+1818,Tablet,"Excellent quality, very happy with my purchase.",positive,1,5
+1819,Phone,"Very disappointed, does not work as advertised.",negative,-1,1
+1820,Watch,"Fantastic product, delivery was fast too.",positive,1,4
+1821,Laptop,"This product is absolutely amazing, love it!",positive,1,5
+1822,Phone,"Wonderful experience, product is top notch.",positive,1,4
+1823,Phone,"Product is acceptable, works as expected.",neutral,0,3
+1824,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+1825,Tablet,Really impressed with the build quality.,positive,1,5
+1826,Tablet,"Best purchase I made this year, very satisfied.",positive,1,4
+1827,Laptop,"Fantastic product, delivery was fast too.",positive,1,4
+1828,Watch,"Fantastic product, delivery was fast too.",positive,1,5
+1829,Laptop,Superb quality and great customer service.,positive,1,4
+1830,Phone,"Not satisfied at all, very poor performance.",negative,-1,2
+1831,Phone,"This product is absolutely amazing, love it!",positive,1,5
+1832,Tablet,"Defective product, customer service unhelpful.",negative,-1,2
+1833,Watch,"Wonderful experience, product is top notch.",positive,1,5
+1834,Earbuds,"Excellent quality, very happy with my purchase.",positive,1,5
+1835,Watch,"Fantastic product, delivery was fast too.",positive,1,5
+1836,Phone,"Terrible product, broke after one week.",negative,-1,2
+1837,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+1838,Watch,"Wonderful experience, product is top notch.",positive,1,4
+1839,Watch,Product stopped working after a few days.,negative,-1,2
+1840,Earbuds,"Waste of money, poor quality.",negative,-1,1
+1841,Phone,"This product is absolutely amazing, love it!",positive,1,5
+1842,Watch,"Product is okay, nothing special.",neutral,0,3
+1843,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+1844,Phone,"Decent product, meets basic expectations.",neutral,0,3
+1845,Earbuds,Product stopped working after a few days.,negative,-1,1
+1846,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+1847,Watch,Really impressed with the build quality.,positive,1,4
+1848,Phone,"Not satisfied at all, very poor performance.",negative,-1,1
+1849,Watch,"Terrible product, broke after one week.",negative,-1,1
+1850,Laptop,"Fantastic product, delivery was fast too.",positive,1,5
+1851,Laptop,"Decent product, meets basic expectations.",neutral,0,3
+1852,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+1853,Earbuds,"Waste of money, poor quality.",negative,-1,2
+1854,Watch,Neither impressed nor disappointed.,neutral,0,4
+1855,Watch,"Decent product, meets basic expectations.",neutral,0,3
+1856,Phone,Really impressed with the build quality.,positive,1,4
+1857,Phone,"Decent product, meets basic expectations.",neutral,0,2
+1858,Laptop,"Excellent quality, very happy with my purchase.",positive,1,5
+1859,Tablet,"Fantastic product, delivery was fast too.",positive,1,5
+1860,Phone,Really impressed with the build quality.,positive,1,4
+1861,Tablet,"Horrible experience, never buying again.",negative,-1,1
+1862,Phone,"Very disappointed, does not work as advertised.",negative,-1,1
+1863,Earbuds,"Fantastic product, delivery was fast too.",positive,1,5
+1864,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+1865,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+1866,Laptop,Superb quality and great customer service.,positive,1,4
+1867,Tablet,"Great value for money, highly recommend.",positive,1,4
+1868,Phone,"Great value for money, highly recommend.",positive,1,4
+1869,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+1870,Laptop,"Terrible product, broke after one week.",negative,-1,2
+1871,Watch,"Excellent quality, very happy with my purchase.",positive,1,5
+1872,Watch,"Not satisfied at all, very poor performance.",negative,-1,1
+1873,Phone,"Not satisfied at all, very poor performance.",negative,-1,2
+1874,Tablet,Product stopped working after a few days.,negative,-1,1
+1875,Phone,"Completely useless, returned immediately.",negative,-1,2
+1876,Laptop,"Horrible experience, never buying again.",negative,-1,1
+1877,Watch,"Outstanding performance, will buy again.",positive,1,4
+1878,Phone,"Best purchase I made this year, very satisfied.",positive,1,5
+1879,Phone,"Very bad quality, not worth the price.",negative,-1,1
+1880,Phone,"Terrible product, broke after one week.",negative,-1,2
+1881,Laptop,"Works perfectly, exceeded my expectations.",positive,1,5
+1882,Tablet,"Wonderful experience, product is top notch.",positive,1,5
+1883,Phone,"Works fine, but nothing extraordinary.",neutral,0,4
+1884,Laptop,"Defective product, customer service unhelpful.",negative,-1,2
+1885,Watch,"Fantastic product, delivery was fast too.",positive,1,5
+1886,Earbuds,Superb quality and great customer service.,positive,1,5
+1887,Laptop,Superb quality and great customer service.,positive,1,5
+1888,Earbuds,"Very disappointed, does not work as advertised.",negative,-1,1
+1889,Phone,"Wonderful experience, product is top notch.",positive,1,5
+1890,Phone,"Terrible product, broke after one week.",negative,-1,1
+1891,Laptop,"Very disappointed, does not work as advertised.",negative,-1,1
+1892,Earbuds,"Wonderful experience, product is top notch.",positive,1,4
+1893,Phone,"This product is absolutely amazing, love it!",positive,1,5
+1894,Watch,"Fantastic product, delivery was fast too.",positive,1,5
+1895,Tablet,"Waste of money, poor quality.",negative,-1,1
+1896,Tablet,"Product is okay, nothing special.",neutral,0,4
+1897,Phone,Product stopped working after a few days.,negative,-1,2
+1898,Earbuds,"Horrible experience, never buying again.",negative,-1,1
+1899,Phone,"Product is acceptable, works as expected.",neutral,0,2
+1900,Earbuds,"Horrible experience, never buying again.",negative,-1,1
+1901,Watch,"Best purchase I made this year, very satisfied.",positive,1,5
+1902,Earbuds,"Great value for money, highly recommend.",positive,1,5
+1903,Phone,"Horrible experience, never buying again.",negative,-1,1
+1904,Watch,Superb quality and great customer service.,positive,1,5
+1905,Laptop,"Fantastic product, delivery was fast too.",positive,1,4
+1906,Tablet,"Outstanding performance, will buy again.",positive,1,5
+1907,Phone,"Works fine, but nothing extraordinary.",neutral,0,4
+1908,Phone,"Very disappointed, does not work as advertised.",negative,-1,1
+1909,Phone,"Not satisfied at all, very poor performance.",negative,-1,1
+1910,Watch,"Okay for the price, not bad.",neutral,0,3
+1911,Laptop,"Best purchase I made this year, very satisfied.",positive,1,5
+1912,Earbuds,"Satisfactory product, as described.",neutral,0,4
+1913,Laptop,Superb quality and great customer service.,positive,1,5
+1914,Watch,"Fantastic product, delivery was fast too.",positive,1,5
+1915,Phone,"Very bad quality, not worth the price.",negative,-1,2
+1916,Tablet,"Great value for money, highly recommend.",positive,1,4
+1917,Phone,"Product is acceptable, works as expected.",neutral,0,3
+1918,Earbuds,"Works perfectly, exceeded my expectations.",positive,1,5
+1919,Tablet,"Terrible product, broke after one week.",negative,-1,2
+1920,Phone,"Works fine, but nothing extraordinary.",neutral,0,3
+1921,Tablet,Product stopped working after a few days.,negative,-1,1
+1922,Laptop,"Fantastic product, delivery was fast too.",positive,1,5
+1923,Watch,Superb quality and great customer service.,positive,1,5
+1924,Phone,"Horrible experience, never buying again.",negative,-1,1
+1925,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+1926,Laptop,Product stopped working after a few days.,negative,-1,1
+1927,Phone,"Product is acceptable, works as expected.",neutral,0,4
+1928,Laptop,"Great value for money, highly recommend.",positive,1,5
+1929,Earbuds,"Decent product, meets basic expectations.",neutral,0,2
+1930,Phone,"Wonderful experience, product is top notch.",positive,1,5
+1931,Earbuds,Really impressed with the build quality.,positive,1,5
+1932,Tablet,"Works perfectly, exceeded my expectations.",positive,1,5
+1933,Earbuds,"Average quality, does the job.",neutral,0,3
+1934,Tablet,"Outstanding performance, will buy again.",positive,1,5
+1935,Phone,Product stopped working after a few days.,negative,-1,1
+1936,Tablet,"Average quality, does the job.",neutral,0,2
+1937,Phone,"Terrible product, broke after one week.",negative,-1,1
+1938,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+1939,Watch,"Very disappointed, does not work as advertised.",negative,-1,2
+1940,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+1941,Tablet,"Best purchase I made this year, very satisfied.",positive,1,5
+1942,Watch,"Works fine, but nothing extraordinary.",neutral,0,2
+1943,Watch,Really impressed with the build quality.,positive,1,5
+1944,Phone,"Defective product, customer service unhelpful.",negative,-1,1
+1945,Earbuds,"Terrible product, broke after one week.",negative,-1,2
+1946,Earbuds,"Horrible experience, never buying again.",negative,-1,1
+1947,Watch,Superb quality and great customer service.,positive,1,5
+1948,Phone,"Very bad quality, not worth the price.",negative,-1,1
+1949,Earbuds,"Terrible product, broke after one week.",negative,-1,1
+1950,Phone,"Average quality, does the job.",neutral,0,4
+1951,Phone,"This product is absolutely amazing, love it!",positive,1,5
+1952,Watch,"Worst purchase ever, avoid this product.",negative,-1,1
+1953,Watch,"Satisfactory product, as described.",neutral,0,4
+1954,Laptop,"Worst purchase ever, avoid this product.",negative,-1,1
+1955,Earbuds,"Average quality, does the job.",neutral,0,4
+1956,Earbuds,"Very bad quality, not worth the price.",negative,-1,2
+1957,Earbuds,"Very bad quality, not worth the price.",negative,-1,1
+1958,Tablet,"Worst purchase ever, avoid this product.",negative,-1,2
+1959,Phone,"Fantastic product, delivery was fast too.",positive,1,5
+1960,Watch,"Worst purchase ever, avoid this product.",negative,-1,1
+1961,Earbuds,"This product is absolutely amazing, love it!",positive,1,5
+1962,Laptop,"Horrible experience, never buying again.",negative,-1,1
+1963,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+1964,Phone,"Worst purchase ever, avoid this product.",negative,-1,2
+1965,Phone,"Outstanding performance, will buy again.",positive,1,5
+1966,Watch,Neither impressed nor disappointed.,neutral,0,2
+1967,Tablet,"It is alright, neither good nor bad.",neutral,0,2
+1968,Watch,"This product is absolutely amazing, love it!",positive,1,5
+1969,Earbuds,"Completely useless, returned immediately.",negative,-1,1
+1970,Laptop,Product stopped working after a few days.,negative,-1,2
+1971,Watch,"Great value for money, highly recommend.",positive,1,5
+1972,Tablet,"Outstanding performance, will buy again.",positive,1,5
+1973,Watch,"Product is okay, nothing special.",neutral,0,2
+1974,Phone,"Defective product, customer service unhelpful.",negative,-1,2
+1975,Earbuds,"Decent product, meets basic expectations.",neutral,0,4
+1976,Earbuds,"Very disappointed, does not work as advertised.",negative,-1,2
+1977,Earbuds,"Wonderful experience, product is top notch.",positive,1,5
+1978,Earbuds,"Great value for money, highly recommend.",positive,1,5
+1979,Earbuds,Superb quality and great customer service.,positive,1,5
+1980,Earbuds,"Great value for money, highly recommend.",positive,1,5
+1981,Laptop,"Great value for money, highly recommend.",positive,1,4
+1982,Tablet,Neither impressed nor disappointed.,neutral,0,2
+1983,Earbuds,"Okay for the price, not bad.",neutral,0,2
+1984,Tablet,"Best purchase I made this year, very satisfied.",positive,1,5
+1985,Earbuds,"Worst purchase ever, avoid this product.",negative,-1,2
+1986,Watch,Superb quality and great customer service.,positive,1,5
+1987,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,5
+1988,Phone,"Great value for money, highly recommend.",positive,1,4
+1989,Laptop,"Horrible experience, never buying again.",negative,-1,1
+1990,Watch,"Fantastic product, delivery was fast too.",positive,1,4
+1991,Watch,"Average quality, does the job.",neutral,0,2
+1992,Phone,Superb quality and great customer service.,positive,1,5
+1993,Earbuds,"Best purchase I made this year, very satisfied.",positive,1,4
+1994,Laptop,"Best purchase I made this year, very satisfied.",positive,1,5
+1995,Watch,Product stopped working after a few days.,negative,-1,2
+1996,Laptop,"Wonderful experience, product is top notch.",positive,1,5
+1997,Watch,"Worst purchase ever, avoid this product.",negative,-1,1
+1998,Earbuds,"Completely useless, returned immediately.",negative,-1,1
+1999,Watch,"Best purchase I made this year, very satisfied.",positive,1,5
+2000,Watch,"Product is acceptable, works as expected.",neutral,0,4
